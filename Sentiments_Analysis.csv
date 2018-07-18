@@ -1,0 +1,785 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,Daniel Hoffman: “The president needs to own this debate.” https://t.co/gkGUhOcStJ,Mon Jul 16 02:49:00 +0000 2018,0.0,0.0,1.0,0.0
+1,Fox News,Celebrations on the streets of Paris after France clinches #WorldCup win. https://t.co/uFRn3tzhBL https://t.co/uGZdn5b4e9,Mon Jul 16 02:41:59 +0000 2018,0.5859,0.241,0.759,0.0
+2,Fox News,RT @FoxBusiness: Trump says NATO members agreed to meet spending commitments. https://t.co/6TzdLfUnHp,Mon Jul 16 02:38:35 +0000 2018,0.3818,0.265,0.735,0.0
+3,Fox News,Escaped jaguar kills 8 animals in New Orleans' Audubon Zoo https://t.co/lBdarfQ8HJ,Mon Jul 16 02:34:35 +0000 2018,-0.5423,0.0,0.72,0.28
+4,Fox News,Prince Louis' official royal christening photos unveiled https://t.co/ms7UpfbuSB,Mon Jul 16 02:25:05 +0000 2018,0.0,0.0,1.0,0.0
+5,Fox News,BEAT THE HEAT: Chuckie the orangutan cooled off from the Florida temperatures by splashing in water and performing… https://t.co/v6yqcsFsMc,Mon Jul 16 02:22:40 +0000 2018,0.0,0.0,1.0,0.0
+6,Fox News,"Man, woman steal fire truck, lead police on hours-long chase in California https://t.co/BYo7UUoet0",Mon Jul 16 02:14:00 +0000 2018,-0.6808,0.0,0.663,0.337
+7,Fox News,MONDAY: Chris Wallace will conduct an exclusive interview with Russian President Vladimir Putin following the summi… https://t.co/z5mfxYfTOh,Mon Jul 16 02:09:00 +0000 2018,0.128,0.086,0.914,0.0
+8,Fox News,More than 500 fall ill after visiting Tennessee zipline attraction https://t.co/1fvtO6JBXc,Mon Jul 16 02:08:29 +0000 2018,0.0516,0.203,0.608,0.189
+9,Fox News,.@realDonaldTrump sees no challenger who could beat him in 2020 as Dems begin to test waters https://t.co/W0XkFcJPpy,Mon Jul 16 01:59:00 +0000 2018,-0.1779,0.08,0.802,0.118
+10,Fox News,.@AmbJohnBolton says Russian hacking indictment gives Trump upper hand in meeting with Putin https://t.co/NHWPBbPfDZ,Mon Jul 16 01:58:00 +0000 2018,0.4939,0.198,0.802,0.0
+11,Fox News,".@kimguilfoyle: ""[President @realDonaldTrump is] never afraid to tell the truth and tell it like it is, whether it'… https://t.co/SqeqIkhVCg",Mon Jul 16 01:57:52 +0000 2018,0.5859,0.22,0.78,0.0
+12,Fox News,Chris Pratt shares touching post about cutting down a tree with his son for Nick Offerman to craft https://t.co/OMHy8GcnZl,Mon Jul 16 01:54:19 +0000 2018,0.1779,0.112,0.812,0.076
+13,Fox News,".@kimguilfoyle on Trump Putin summit: ""This is what a president who is strong, who is fearless, who leads with comm… https://t.co/1Tp1EKB4u6",Mon Jul 16 01:47:11 +0000 2018,0.7351,0.256,0.744,0.0
+14,Fox News,"MONDAY on #Hannity, @seanhannity has the first interview with President @realDonaldTrump after his meeting with Rus… https://t.co/Enrw4S7aQQ",Mon Jul 16 01:46:00 +0000 2018,0.0,0.0,1.0,0.0
+15,Fox News,".@kimguilfoyle on Trump Putin summit: ""[President @realDonaldTrump] is doing the smart thing, which is trying to op… https://t.co/UBbpKV0nG2",Mon Jul 16 01:45:26 +0000 2018,0.4019,0.137,0.863,0.0
+16,Fox News,Missouri governor signs law banning marriage of 15-year-olds https://t.co/kO16uxKr0J,Mon Jul 16 01:40:45 +0000 2018,0.0,0.0,1.0,0.0
+17,Fox News,".@RepDeSantis: ""President @realDonaldTrump has shown he's willing to lead, he is willing to buck the foreign policy… https://t.co/TrJbToYhbS",Mon Jul 16 01:38:36 +0000 2018,0.0,0.0,1.0,0.0
+18,Fox News,Trumps blasts FBI Agent Strzok as 'disgrace to our country' https://t.co/uuEWywjsfB,Mon Jul 16 01:38:00 +0000 2018,-0.4939,0.0,0.758,0.242
+19,Fox News,Dennis Rodman reportedly booed at Bruce Willis roast over Kim Jong Un joke https://t.co/qbXmizXAKE,Mon Jul 16 01:33:28 +0000 2018,0.296,0.145,0.855,0.0
+20,CNN,Richie Porte crashes out of Tour de France for second year in a row https://t.co/xKtzLx7cwE https://t.co/AyLpP6OeB0,Mon Jul 16 02:45:09 +0000 2018,0.0,0.0,1.0,0.0
+21,CNN,"You're paying for President Trump to promote his golf courses, writes Dean Obeidallah for @CNNOpinion… https://t.co/LCYhCxljo1",Mon Jul 16 02:30:12 +0000 2018,0.3818,0.148,0.852,0.0
+22,CNN,Kabul suicide bombing leaves at least 7 dead https://t.co/k7osDlRAI5 https://t.co/tjPGu5ydXj,Mon Jul 16 02:15:05 +0000 2018,-0.8689,0.0,0.443,0.557
+23,CNN,Chicago man killed by police identified after a night of protests https://t.co/1oBB4ZE1Du https://t.co/4boNJhwGfW,Mon Jul 16 02:00:06 +0000 2018,-0.7506,0.0,0.61,0.39
+24,CNN,Jean Eric-Vergne capped a triumphant day for France by winning the final round of the Formula E championship in New… https://t.co/ynDo04xPZx,Mon Jul 16 01:45:07 +0000 2018,0.8658,0.377,0.623,0.0
+25,CNN,Leaders of the California Democratic Party overwhelmingly have voted to endorse Kevin de León for the US Senate ove… https://t.co/jT5fS9twk3,Mon Jul 16 01:30:08 +0000 2018,0.5423,0.213,0.723,0.064
+26,CNN,"Death toll in Nicaragua protests reaches 273, human rights group says https://t.co/FDi8RVVUhr https://t.co/whnC0YTCj0",Mon Jul 16 01:15:05 +0000 2018,-0.6808,0.071,0.588,0.341
+27,CNN,Why Prime Day is important to Amazon https://t.co/VxLJ5dE834 https://t.co/ug7VGF66rx,Mon Jul 16 01:00:13 +0000 2018,0.3612,0.333,0.667,0.0
+28,CNN,Police in Scotland have arrested the paragliding protester who was able to get surprisingly close to President Trum… https://t.co/PGrikajCxN,Mon Jul 16 00:45:07 +0000 2018,-0.2263,0.099,0.762,0.139
+29,CNN,President Trump tells officials how Russian President Vladimir Putin will respond to meddling question… https://t.co/4gHEZe3HmA,Mon Jul 16 00:30:07 +0000 2018,0.0,0.0,1.0,0.0
+30,CNN,Here's what you need to know to start your week smart https://t.co/qsKXHe0MPc https://t.co/N4NPPZljhz,Mon Jul 16 00:15:06 +0000 2018,0.4019,0.184,0.816,0.0
+31,CNN,"President Trump calls embattled FBI agent Peter Strzok ""a disgrace to our country,"" says investigation ""hurts our r… https://t.co/39yC48covm",Mon Jul 16 00:00:16 +0000 2018,-0.743,0.0,0.73,0.27
+32,CNN,US and allies are discussing evacuating rescue group from Syria https://t.co/arxhBkDUOM https://t.co/FWfP2VdmjA,Sun Jul 15 23:45:02 +0000 2018,0.5106,0.231,0.769,0.0
+33,CNN,"FBI employees' support for their leadership has decreased, survey shows https://t.co/1IphIu2GNY https://t.co/T3DASXYfKi",Sun Jul 15 23:37:06 +0000 2018,0.4019,0.197,0.803,0.0
+34,CNN,"President Trump: Be a patriot, not a dupe, with Russian President Vladimir Putin, writes Asha Rangappa for… https://t.co/E7Nc4IrmqE",Sun Jul 15 23:30:14 +0000 2018,0.2755,0.123,0.877,0.0
+35,CNN,Democratic Sen. Mark Warner says more Americans should be in the Trump-Putin meeting https://t.co/WrAyFtOWS4 https://t.co/84pcNflHYM,Sun Jul 15 23:22:04 +0000 2018,0.0,0.0,1.0,0.0
+36,CNN,A police officer and bystander have been fatally shot near Boston https://t.co/4LwxEUFkyM https://t.co/muflJbjmpN,Sun Jul 15 23:15:07 +0000 2018,-0.6369,0.0,0.724,0.276
+37,CNN,A video released by Russian President Vladimir Putin touting his country's potential future weaponry and its suppos… https://t.co/cX9E5D73RV,Sun Jul 15 23:07:05 +0000 2018,-0.3818,0.0,0.806,0.194
+38,CNN,Former NHL goalie Ray Emery dies at 35 https://t.co/MIwS3z505n https://t.co/YEqEL2dXpH,Sun Jul 15 23:07:05 +0000 2018,0.0,0.0,1.0,0.0
+39,CNN,A video released by Russian President Vladimir Putin touting his country's potential future weaponry and its suppos… https://t.co/ZnqQ3o8Pnv,Sun Jul 15 23:00:21 +0000 2018,-0.3818,0.0,0.806,0.194
+40,BBC News (World),Trump-Putin summit: US leader cautious ahead of Helsinki talks https://t.co/JIdP4TBiUg,Mon Jul 16 02:24:39 +0000 2018,-0.1027,0.0,0.865,0.135
+41,BBC News (World),Italy allows migrants to land in Sicily https://t.co/2JJn8pXAwa,Mon Jul 16 02:07:53 +0000 2018,0.0,0.0,1.0,0.0
+42,BBC News (World),Nicaragua troops raid towns in south https://t.co/CgBQjS3AYY,Mon Jul 16 01:22:41 +0000 2018,0.0,0.0,1.0,0.0
+43,BBC News (World),How dangerous are Toronto streets for the city's cyclists? https://t.co/8KO5hXDVUf,Sun Jul 15 23:44:01 +0000 2018,-0.4767,0.0,0.744,0.256
+44,BBC News (World),Will South Africa's Jacob Zuma come back to haunt Cyril Ramaphosa? https://t.co/sIUzkDFFkC,Sun Jul 15 23:36:03 +0000 2018,-0.4019,0.0,0.803,0.197
+45,BBC News (World),Iran nuclear deal: US rejects EU plea for sanctions exemption https://t.co/Nm9O7NXoQN,Sun Jul 15 23:21:01 +0000 2018,-0.4939,0.0,0.758,0.242
+46,BBC News (World),World Cup 2018: Celebration as France lifts the trophy https://t.co/sUkixOf8NP,Sun Jul 15 18:56:25 +0000 2018,0.0,0.0,1.0,0.0
+47,BBC News (World),"Champions du monde! 🇫🇷⚽
+
+World Cup celebrations get underway in Paris 🎉🎊🎆
+
+https://t.co/yfVQy68TeD https://t.co/Vo2XigBaXW",Sun Jul 15 18:18:16 +0000 2018,0.5707,0.221,0.779,0.0
+48,BBC News (World),World Cup 2018: French optimism resurgent https://t.co/ANuSdfpQKV,Sun Jul 15 17:31:13 +0000 2018,0.5423,0.368,0.632,0.0
+49,BBC News (World),"RT @BBCSport: FRANCE ARE THE WORLD CHAMPIONS!
+
+It’s ended #FRA 4-2 #CRO to give the French their second #WorldCup triumph.
+
+Allez les bleus…",Sun Jul 15 16:54:16 +0000 2018,0.8188,0.264,0.736,0.0
+50,BBC News (World),"RT @BBCNews: ""She really is a very special woman, I really enjoyed it""
+
+What did Donald Trump make of his tea with the Queen?
+
+https://t.co…",Sun Jul 15 16:37:28 +0000 2018,0.7814,0.246,0.754,0.0
+51,BBC News (World),"RT @BBCSport: GOAL! #FRA 4-2 #CRO 
+
+Hang on!?
+
+Lloris makes a howler, Mandzukic capitalises. 
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNw…",Sun Jul 15 16:28:01 +0000 2018,0.0,0.0,1.0,0.0
+52,BBC News (World),"RT @BBCSport: GOAL! #FRA 4-1 #CRO 
+
+Incredible!
+
+Kylian Mbappe smashes one in from range - the #WorldCup is heading to #FRA 
+
+📺 @BBCOne 
+📻…",Sun Jul 15 16:24:34 +0000 2018,0.0,0.0,1.0,0.0
+53,BBC News (World),"RT @BBCSport: GOAL! #FRA 3-1 #CRO 
+
+Game over?
+
+Paul Pogba curls in from the edge of the area.
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PN…",Sun Jul 15 16:18:11 +0000 2018,0.0,0.0,1.0,0.0
+54,BBC News (World),"RT @BBCSport: The #WorldCupFinal is back under way!
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNwIAbg0Jd
+
+#WorldCup #FRACRO https://t.co/6E…",Sun Jul 15 16:04:05 +0000 2018,0.0,0.0,1.0,0.0
+55,BBC News (World),"RT @BBCSport: HT #FRA 2-1 #CRO 
+
+And breathe...
+
+France have the advantage but Croatia are right in this game.
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱…",Sun Jul 15 15:49:27 +0000 2018,0.128,0.067,0.933,0.0
+56,BBC News (World),"RT @BBCSport: GOAL! #FRA 2-1 #CRO 
+
+Griezmann scores from the spot! What a first half this has been.
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t…",Sun Jul 15 15:38:32 +0000 2018,0.0,0.0,1.0,0.0
+57,BBC News (World),"RT @BBCMOTD: PENALTY FOR #FRA! 
+
+For a Perisic handball following a VAR consultation...
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/QjAHku9Wu…",Sun Jul 15 15:37:37 +0000 2018,-0.6155,0.0,0.764,0.236
+58,BBC News (World),"RT @5liveSport: Novak Djokovic has done it! 👑
+
+He beats Kevin Anderson in straight sets to win his fourth #Wimbledon title 👏👏
+
+🏆🏆🏆🏆
+
+Reacti…",Sun Jul 15 15:33:25 +0000 2018,0.7177,0.222,0.778,0.0
+59,BBC News (World),"RT @BBCSport: GOAL! #FRA 1-1 #CRO 
+
+Equaliser!
+
+Perisic with a super strike!
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNwIAbg0Jd
+
+#WorldCu…",Sun Jul 15 15:29:10 +0000 2018,0.6458,0.248,0.674,0.078
+60,CBS News,Pussy Riot charged after on-field protest delays World Cup Final https://t.co/bNKMUXwGbD https://t.co/LnVdsfOe0X,Mon Jul 16 02:44:39 +0000 2018,-0.7506,0.0,0.549,0.451
+61,CBS News,"A Florida family was watching a dog while its owner was on vacation. Then, it attacked their 6-year-old daughter, l… https://t.co/dTVxWRqS8c",Mon Jul 16 02:25:01 +0000 2018,-0.4588,0.0,0.857,0.143
+62,CBS News,Wildfire shuts down key route to Yosemite National Park https://t.co/NlpADxhTJ3 https://t.co/zDeQi7bMom,Mon Jul 16 02:04:52 +0000 2018,0.0,0.0,1.0,0.0
+63,CBS News,"""I think I would prefer to be the first Alma than to be the second Mozart"": For musical prodigy Alma Deutscher, mak… https://t.co/o3bodPfnSh",Mon Jul 16 01:47:32 +0000 2018,0.0,0.0,1.0,0.0
+64,CBS News,"Seaweed, something often thought of as a nuisance, may just be a new source of food, jobs and cleaner ocean waters.… https://t.co/hCZLum6mME",Mon Jul 16 01:24:51 +0000 2018,0.1779,0.082,0.918,0.0
+65,CBS News,The Killers' Brandon Flowers: Swagger and faith https://t.co/9gQtGq6NJ0 https://t.co/UeLTprgePL,Mon Jul 16 01:04:31 +0000 2018,-0.3612,0.199,0.496,0.305
+66,CBS News,"""Eighth Grade"" star Elsie Fisher: Social media has ""made me more anxious"" https://t.co/BjOWGCHxiJ https://t.co/Lvs7s7XZ5e",Mon Jul 16 00:44:38 +0000 2018,-0.3167,0.0,0.85,0.15
+67,CBS News,60 Minutes: The history and future of Confederate monuments https://t.co/q8od2YiOjm https://t.co/Bw8dEpkkUq,Mon Jul 16 00:24:50 +0000 2018,0.0,0.0,1.0,0.0
+68,CBS News,Chicago police release video of deadly shooting amid violent protests in the city https://t.co/HLG1I3oMmd https://t.co/BLkDMKX2Y6,Mon Jul 16 00:04:41 +0000 2018,-0.7003,0.0,0.691,0.309
+69,CBS News,Former NHL goalie Ray Emery drowns in his hometown https://t.co/PtBwvgobcv https://t.co/J11Uh8ZFDp,Sun Jul 15 23:44:56 +0000 2018,-0.4939,0.0,0.758,0.242
+70,CBS News,Suspect in shooting of 3 Kansas City cops dies in standoff Sunday https://t.co/7pgS3EX3NL https://t.co/1DGSvLLUBw,Sun Jul 15 23:25:01 +0000 2018,-0.296,0.0,0.845,0.155
+71,CBS News,Russian feminist protest group Pussy Riot halts the World Cup Final by running onto the field in police uniforms in… https://t.co/0uemgpbdXT,Sun Jul 15 23:05:02 +0000 2018,-0.6808,0.0,0.772,0.228
+72,CBS News,A Massachusetts police officer and bystander have died from wounds sustained when a suspect allegedly took the offi… https://t.co/KZSgFjL9Fp,Sun Jul 15 22:44:37 +0000 2018,-0.7003,0.0,0.721,0.279
+73,CBS News,"""Tell us where we can pick up the 25 Russians that tried to interfere with the fundamentals of our democracy"": Sen.… https://t.co/SEt1j8c4SL",Sun Jul 15 22:25:03 +0000 2018,0.0,0.0,1.0,0.0
+74,CBS News,"With rising global populations and limited space to expand agriculture on land, fishermen, scientists and foodies a… https://t.co/Im8usqtG2A",Sun Jul 15 22:04:47 +0000 2018,0.1027,0.114,0.792,0.094
+75,CBS News,President Trump's one-on-one meeting with Russian President Vladimir Putin is scheduled to last about a half hour.… https://t.co/ICB31hOOwC,Sun Jul 15 21:44:48 +0000 2018,0.0,0.0,1.0,0.0
+76,CBS News,"Former NHL goaltender Ray Emery has drowned in his hometown of Hamilton, Ontario https://t.co/Hrm7xJ7hND https://t.co/i1FqbbbxRH",Sun Jul 15 21:24:34 +0000 2018,-0.5994,0.0,0.782,0.218
+77,CBS News,"Tonight, a 13-year-old musical prodigy whose talent is so immense it seems she was born with it. @scottpelley repor… https://t.co/0Etv8FQdpv",Sun Jul 15 21:04:48 +0000 2018,0.4215,0.135,0.865,0.0
+78,CBS News,"Brandon Flowers refers to himself as a ""glorified Elvis impersonator."" The Killers' latest album blends the glitz a… https://t.co/yQWgJaELrq",Sun Jul 15 20:44:34 +0000 2018,-0.25,0.14,0.678,0.182
+79,CBS News,A woman who vanished last week in California has been found after her Jeep went over a cliff near Big Sur… https://t.co/dblmJJqD6N,Sun Jul 15 20:34:35 +0000 2018,0.0,0.0,1.0,0.0
+80,The New York Times,The Right Way to Lose the Kavanaugh Fight https://t.co/nlOTmRQINC,Mon Jul 16 02:44:49 +0000 2018,-0.6486,0.0,0.569,0.431
+81,The New York Times,China’s Strong Economic Growth Figures Belie Signs of Weakness https://t.co/1JLYVw0mf2,Mon Jul 16 02:32:29 +0000 2018,0.4767,0.376,0.446,0.178
+82,The New York Times,"“I have TSA PreCheck and Clear — I have all the things, so I can fly like it’s the 70s.” The comedian and CNN host… https://t.co/LE4AHySlxW",Mon Jul 16 02:31:08 +0000 2018,0.7884,0.285,0.715,0.0
+83,The New York Times,President Trump is the first to go this long without awarding national medals in the arts and humanities https://t.co/hpeXsRGLD2,Mon Jul 16 02:13:01 +0000 2018,-0.3412,0.0,0.882,0.118
+84,The New York Times,"Cosby's absence from most episodes of ""A Different World"" makes it easier for fans to separate his tainted legacy f… https://t.co/PrCU30eE8F",Mon Jul 16 01:56:55 +0000 2018,0.4215,0.123,0.877,0.0
+85,The New York Times,"After Storm, Foreclosures in Puerto Rico Stopped. They’re Starting Again. https://t.co/9Q3GCivKAZ",Mon Jul 16 01:39:06 +0000 2018,-0.6486,0.0,0.629,0.371
+86,The New York Times,$88 Million and Counting: Trump Amasses Huge Head Start for 2020 Campaign https://t.co/SARPefIvsG,Mon Jul 16 01:36:39 +0000 2018,0.3182,0.161,0.839,0.0
+87,The New York Times,"“I think I’ve been a gentrifier everywhere I have lived since I left Oakland, so it’s a thing that I’m struggling w… https://t.co/Iu940sgVCg",Mon Jul 16 01:34:22 +0000 2018,-0.4215,0.0,0.865,0.135
+88,The New York Times,"Even if an apartment building can't or won't install solar panels, tenants can still access solar power. Here's how… https://t.co/HyMjo2p1uK",Mon Jul 16 01:18:06 +0000 2018,0.0,0.0,1.0,0.0
+89,The New York Times,The best part of any exercise class is the few minutes of cooling down and recovery at the end. Some new studios al… https://t.co/fn0BvmoOe4,Mon Jul 16 00:58:58 +0000 2018,0.6369,0.154,0.846,0.0
+90,The New York Times,Tracing Guccifer 2.0’s Many Tentacles in the 2016 Election https://t.co/C9llr41gAr,Mon Jul 16 00:41:32 +0000 2018,0.0,0.0,1.0,0.0
+91,The New York Times,"And then there was one. Soon, Oregon will have the last Blockbuster video store in the United States. https://t.co/FPiBugHPxE",Mon Jul 16 00:28:18 +0000 2018,0.7717,0.283,0.717,0.0
+92,The New York Times,White House Orders Direct Taliban Talks to Jump-Start Afghan Negotiations https://t.co/oNgkAu9fVd,Mon Jul 16 00:07:32 +0000 2018,0.0,0.0,1.0,0.0
+93,The New York Times,"Venezuela, the New Regional Crime Hub https://t.co/G9EFD0ugM1",Mon Jul 16 00:00:25 +0000 2018,-0.5423,0.0,0.632,0.368
+94,The New York Times,The Kardashians picked up right where the Simpsons left off when they launched their reality show on E! in 2008. No… https://t.co/B7ljgOYMJj,Sun Jul 15 23:58:42 +0000 2018,0.2003,0.079,0.921,0.0
+95,The New York Times,"Amazon’s Curious Case of the $2,630.52 Used Paperback https://t.co/eJPfaP3LWn",Sun Jul 15 23:39:47 +0000 2018,0.3182,0.223,0.777,0.0
+96,The New York Times,"This braised chicken recipe is quick, comforting, and only requires one pot https://t.co/LPdxg1UMgR https://t.co/eTfL06C31c",Sun Jul 15 23:38:37 +0000 2018,0.4019,0.172,0.828,0.0
+97,The New York Times,"""See ya later, suckas!"" *A 5-year-old who died from a rare form of cancer was remembered in his own words in a wide… https://t.co/pr1HP12yn3",Sun Jul 15 23:20:53 +0000 2018,-0.8516,0.0,0.707,0.293
+98,The New York Times,"No sitting on the floor, no hugging your siblings, and it’s best not to cry: Migrant children describe life in dete… https://t.co/uIBNxvpSnn",Sun Jul 15 23:03:35 +0000 2018,0.7314,0.309,0.549,0.142
+99,The New York Times,Nonfiction: What Edmund White Thinks You Should Read https://t.co/8F6R641WKh,Sun Jul 15 22:44:31 +0000 2018,0.0,0.0,1.0,0.0
+100,Fox News,Daniel Hoffman: “The president needs to own this debate.” https://t.co/gkGUhOcStJ,Mon Jul 16 02:49:00 +0000 2018,0.0,0.0,1.0,0.0
+101,Fox News,Celebrations on the streets of Paris after France clinches #WorldCup win. https://t.co/uFRn3tzhBL https://t.co/uGZdn5b4e9,Mon Jul 16 02:41:59 +0000 2018,0.5859,0.241,0.759,0.0
+102,Fox News,RT @FoxBusiness: Trump says NATO members agreed to meet spending commitments. https://t.co/6TzdLfUnHp,Mon Jul 16 02:38:35 +0000 2018,0.3818,0.265,0.735,0.0
+103,Fox News,Escaped jaguar kills 8 animals in New Orleans' Audubon Zoo https://t.co/lBdarfQ8HJ,Mon Jul 16 02:34:35 +0000 2018,-0.5423,0.0,0.72,0.28
+104,Fox News,Prince Louis' official royal christening photos unveiled https://t.co/ms7UpfbuSB,Mon Jul 16 02:25:05 +0000 2018,0.0,0.0,1.0,0.0
+105,Fox News,BEAT THE HEAT: Chuckie the orangutan cooled off from the Florida temperatures by splashing in water and performing… https://t.co/v6yqcsFsMc,Mon Jul 16 02:22:40 +0000 2018,0.0,0.0,1.0,0.0
+106,Fox News,"Man, woman steal fire truck, lead police on hours-long chase in California https://t.co/BYo7UUoet0",Mon Jul 16 02:14:00 +0000 2018,-0.6808,0.0,0.663,0.337
+107,Fox News,MONDAY: Chris Wallace will conduct an exclusive interview with Russian President Vladimir Putin following the summi… https://t.co/z5mfxYfTOh,Mon Jul 16 02:09:00 +0000 2018,0.128,0.086,0.914,0.0
+108,Fox News,More than 500 fall ill after visiting Tennessee zipline attraction https://t.co/1fvtO6JBXc,Mon Jul 16 02:08:29 +0000 2018,0.0516,0.203,0.608,0.189
+109,Fox News,.@realDonaldTrump sees no challenger who could beat him in 2020 as Dems begin to test waters https://t.co/W0XkFcJPpy,Mon Jul 16 01:59:00 +0000 2018,-0.1779,0.08,0.802,0.118
+110,Fox News,.@AmbJohnBolton says Russian hacking indictment gives Trump upper hand in meeting with Putin https://t.co/NHWPBbPfDZ,Mon Jul 16 01:58:00 +0000 2018,0.4939,0.198,0.802,0.0
+111,Fox News,".@kimguilfoyle: ""[President @realDonaldTrump is] never afraid to tell the truth and tell it like it is, whether it'… https://t.co/SqeqIkhVCg",Mon Jul 16 01:57:52 +0000 2018,0.5859,0.22,0.78,0.0
+112,Fox News,Chris Pratt shares touching post about cutting down a tree with his son for Nick Offerman to craft https://t.co/OMHy8GcnZl,Mon Jul 16 01:54:19 +0000 2018,0.1779,0.112,0.812,0.076
+113,Fox News,".@kimguilfoyle on Trump Putin summit: ""This is what a president who is strong, who is fearless, who leads with comm… https://t.co/1Tp1EKB4u6",Mon Jul 16 01:47:11 +0000 2018,0.7351,0.256,0.744,0.0
+114,Fox News,"MONDAY on #Hannity, @seanhannity has the first interview with President @realDonaldTrump after his meeting with Rus… https://t.co/Enrw4S7aQQ",Mon Jul 16 01:46:00 +0000 2018,0.0,0.0,1.0,0.0
+115,Fox News,".@kimguilfoyle on Trump Putin summit: ""[President @realDonaldTrump] is doing the smart thing, which is trying to op… https://t.co/UBbpKV0nG2",Mon Jul 16 01:45:26 +0000 2018,0.4019,0.137,0.863,0.0
+116,Fox News,Missouri governor signs law banning marriage of 15-year-olds https://t.co/kO16uxKr0J,Mon Jul 16 01:40:45 +0000 2018,0.0,0.0,1.0,0.0
+117,Fox News,".@RepDeSantis: ""President @realDonaldTrump has shown he's willing to lead, he is willing to buck the foreign policy… https://t.co/TrJbToYhbS",Mon Jul 16 01:38:36 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,Trumps blasts FBI Agent Strzok as 'disgrace to our country' https://t.co/uuEWywjsfB,Mon Jul 16 01:38:00 +0000 2018,-0.4939,0.0,0.758,0.242
+119,Fox News,Dennis Rodman reportedly booed at Bruce Willis roast over Kim Jong Un joke https://t.co/qbXmizXAKE,Mon Jul 16 01:33:28 +0000 2018,0.296,0.145,0.855,0.0
+120,CNN,Richie Porte crashes out of Tour de France for second year in a row https://t.co/xKtzLx7cwE https://t.co/AyLpP6OeB0,Mon Jul 16 02:45:09 +0000 2018,0.0,0.0,1.0,0.0
+121,CNN,"You're paying for President Trump to promote his golf courses, writes Dean Obeidallah for @CNNOpinion… https://t.co/LCYhCxljo1",Mon Jul 16 02:30:12 +0000 2018,0.3818,0.148,0.852,0.0
+122,CNN,Kabul suicide bombing leaves at least 7 dead https://t.co/k7osDlRAI5 https://t.co/tjPGu5ydXj,Mon Jul 16 02:15:05 +0000 2018,-0.8689,0.0,0.443,0.557
+123,CNN,Chicago man killed by police identified after a night of protests https://t.co/1oBB4ZE1Du https://t.co/4boNJhwGfW,Mon Jul 16 02:00:06 +0000 2018,-0.7506,0.0,0.61,0.39
+124,CNN,Jean Eric-Vergne capped a triumphant day for France by winning the final round of the Formula E championship in New… https://t.co/ynDo04xPZx,Mon Jul 16 01:45:07 +0000 2018,0.8658,0.377,0.623,0.0
+125,CNN,Leaders of the California Democratic Party overwhelmingly have voted to endorse Kevin de León for the US Senate ove… https://t.co/jT5fS9twk3,Mon Jul 16 01:30:08 +0000 2018,0.5423,0.213,0.723,0.064
+126,CNN,"Death toll in Nicaragua protests reaches 273, human rights group says https://t.co/FDi8RVVUhr https://t.co/whnC0YTCj0",Mon Jul 16 01:15:05 +0000 2018,-0.6808,0.071,0.588,0.341
+127,CNN,Why Prime Day is important to Amazon https://t.co/VxLJ5dE834 https://t.co/ug7VGF66rx,Mon Jul 16 01:00:13 +0000 2018,0.3612,0.333,0.667,0.0
+128,CNN,Police in Scotland have arrested the paragliding protester who was able to get surprisingly close to President Trum… https://t.co/PGrikajCxN,Mon Jul 16 00:45:07 +0000 2018,-0.2263,0.099,0.762,0.139
+129,CNN,President Trump tells officials how Russian President Vladimir Putin will respond to meddling question… https://t.co/4gHEZe3HmA,Mon Jul 16 00:30:07 +0000 2018,0.0,0.0,1.0,0.0
+130,CNN,Here's what you need to know to start your week smart https://t.co/qsKXHe0MPc https://t.co/N4NPPZljhz,Mon Jul 16 00:15:06 +0000 2018,0.4019,0.184,0.816,0.0
+131,CNN,"President Trump calls embattled FBI agent Peter Strzok ""a disgrace to our country,"" says investigation ""hurts our r… https://t.co/39yC48covm",Mon Jul 16 00:00:16 +0000 2018,-0.743,0.0,0.73,0.27
+132,CNN,US and allies are discussing evacuating rescue group from Syria https://t.co/arxhBkDUOM https://t.co/FWfP2VdmjA,Sun Jul 15 23:45:02 +0000 2018,0.5106,0.231,0.769,0.0
+133,CNN,"FBI employees' support for their leadership has decreased, survey shows https://t.co/1IphIu2GNY https://t.co/T3DASXYfKi",Sun Jul 15 23:37:06 +0000 2018,0.4019,0.197,0.803,0.0
+134,CNN,"President Trump: Be a patriot, not a dupe, with Russian President Vladimir Putin, writes Asha Rangappa for… https://t.co/E7Nc4IrmqE",Sun Jul 15 23:30:14 +0000 2018,0.2755,0.123,0.877,0.0
+135,CNN,Democratic Sen. Mark Warner says more Americans should be in the Trump-Putin meeting https://t.co/WrAyFtOWS4 https://t.co/84pcNflHYM,Sun Jul 15 23:22:04 +0000 2018,0.0,0.0,1.0,0.0
+136,CNN,A police officer and bystander have been fatally shot near Boston https://t.co/4LwxEUFkyM https://t.co/muflJbjmpN,Sun Jul 15 23:15:07 +0000 2018,-0.6369,0.0,0.724,0.276
+137,CNN,A video released by Russian President Vladimir Putin touting his country's potential future weaponry and its suppos… https://t.co/cX9E5D73RV,Sun Jul 15 23:07:05 +0000 2018,-0.3818,0.0,0.806,0.194
+138,CNN,Former NHL goalie Ray Emery dies at 35 https://t.co/MIwS3z505n https://t.co/YEqEL2dXpH,Sun Jul 15 23:07:05 +0000 2018,0.0,0.0,1.0,0.0
+139,CNN,A video released by Russian President Vladimir Putin touting his country's potential future weaponry and its suppos… https://t.co/ZnqQ3o8Pnv,Sun Jul 15 23:00:21 +0000 2018,-0.3818,0.0,0.806,0.194
+140,BBC News (World),Trump-Putin summit: US leader cautious ahead of Helsinki talks https://t.co/JIdP4TBiUg,Mon Jul 16 02:24:39 +0000 2018,-0.1027,0.0,0.865,0.135
+141,BBC News (World),Italy allows migrants to land in Sicily https://t.co/2JJn8pXAwa,Mon Jul 16 02:07:53 +0000 2018,0.0,0.0,1.0,0.0
+142,BBC News (World),Nicaragua troops raid towns in south https://t.co/CgBQjS3AYY,Mon Jul 16 01:22:41 +0000 2018,0.0,0.0,1.0,0.0
+143,BBC News (World),How dangerous are Toronto streets for the city's cyclists? https://t.co/8KO5hXDVUf,Sun Jul 15 23:44:01 +0000 2018,-0.4767,0.0,0.744,0.256
+144,BBC News (World),Will South Africa's Jacob Zuma come back to haunt Cyril Ramaphosa? https://t.co/sIUzkDFFkC,Sun Jul 15 23:36:03 +0000 2018,-0.4019,0.0,0.803,0.197
+145,BBC News (World),Iran nuclear deal: US rejects EU plea for sanctions exemption https://t.co/Nm9O7NXoQN,Sun Jul 15 23:21:01 +0000 2018,-0.4939,0.0,0.758,0.242
+146,BBC News (World),World Cup 2018: Celebration as France lifts the trophy https://t.co/sUkixOf8NP,Sun Jul 15 18:56:25 +0000 2018,0.0,0.0,1.0,0.0
+147,BBC News (World),"Champions du monde! 🇫🇷⚽
+
+World Cup celebrations get underway in Paris 🎉🎊🎆
+
+https://t.co/yfVQy68TeD https://t.co/Vo2XigBaXW",Sun Jul 15 18:18:16 +0000 2018,0.5707,0.221,0.779,0.0
+148,BBC News (World),World Cup 2018: French optimism resurgent https://t.co/ANuSdfpQKV,Sun Jul 15 17:31:13 +0000 2018,0.5423,0.368,0.632,0.0
+149,BBC News (World),"RT @BBCSport: FRANCE ARE THE WORLD CHAMPIONS!
+
+It’s ended #FRA 4-2 #CRO to give the French their second #WorldCup triumph.
+
+Allez les bleus…",Sun Jul 15 16:54:16 +0000 2018,0.8188,0.264,0.736,0.0
+150,BBC News (World),"RT @BBCNews: ""She really is a very special woman, I really enjoyed it""
+
+What did Donald Trump make of his tea with the Queen?
+
+https://t.co…",Sun Jul 15 16:37:28 +0000 2018,0.7814,0.246,0.754,0.0
+151,BBC News (World),"RT @BBCSport: GOAL! #FRA 4-2 #CRO 
+
+Hang on!?
+
+Lloris makes a howler, Mandzukic capitalises. 
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNw…",Sun Jul 15 16:28:01 +0000 2018,0.0,0.0,1.0,0.0
+152,BBC News (World),"RT @BBCSport: GOAL! #FRA 4-1 #CRO 
+
+Incredible!
+
+Kylian Mbappe smashes one in from range - the #WorldCup is heading to #FRA 
+
+📺 @BBCOne 
+📻…",Sun Jul 15 16:24:34 +0000 2018,0.0,0.0,1.0,0.0
+153,BBC News (World),"RT @BBCSport: GOAL! #FRA 3-1 #CRO 
+
+Game over?
+
+Paul Pogba curls in from the edge of the area.
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PN…",Sun Jul 15 16:18:11 +0000 2018,0.0,0.0,1.0,0.0
+154,BBC News (World),"RT @BBCSport: The #WorldCupFinal is back under way!
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNwIAbg0Jd
+
+#WorldCup #FRACRO https://t.co/6E…",Sun Jul 15 16:04:05 +0000 2018,0.0,0.0,1.0,0.0
+155,BBC News (World),"RT @BBCSport: HT #FRA 2-1 #CRO 
+
+And breathe...
+
+France have the advantage but Croatia are right in this game.
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱…",Sun Jul 15 15:49:27 +0000 2018,0.128,0.067,0.933,0.0
+156,BBC News (World),"RT @BBCSport: GOAL! #FRA 2-1 #CRO 
+
+Griezmann scores from the spot! What a first half this has been.
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t…",Sun Jul 15 15:38:32 +0000 2018,0.0,0.0,1.0,0.0
+157,BBC News (World),"RT @BBCMOTD: PENALTY FOR #FRA! 
+
+For a Perisic handball following a VAR consultation...
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/QjAHku9Wu…",Sun Jul 15 15:37:37 +0000 2018,-0.6155,0.0,0.764,0.236
+158,BBC News (World),"RT @5liveSport: Novak Djokovic has done it! 👑
+
+He beats Kevin Anderson in straight sets to win his fourth #Wimbledon title 👏👏
+
+🏆🏆🏆🏆
+
+Reacti…",Sun Jul 15 15:33:25 +0000 2018,0.7177,0.222,0.778,0.0
+159,BBC News (World),"RT @BBCSport: GOAL! #FRA 1-1 #CRO 
+
+Equaliser!
+
+Perisic with a super strike!
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNwIAbg0Jd
+
+#WorldCu…",Sun Jul 15 15:29:10 +0000 2018,0.6458,0.248,0.674,0.078
+160,CBS News,Pussy Riot charged after on-field protest delays World Cup Final https://t.co/bNKMUXwGbD https://t.co/LnVdsfOe0X,Mon Jul 16 02:44:39 +0000 2018,-0.7506,0.0,0.549,0.451
+161,CBS News,"A Florida family was watching a dog while its owner was on vacation. Then, it attacked their 6-year-old daughter, l… https://t.co/dTVxWRqS8c",Mon Jul 16 02:25:01 +0000 2018,-0.4588,0.0,0.857,0.143
+162,CBS News,Wildfire shuts down key route to Yosemite National Park https://t.co/NlpADxhTJ3 https://t.co/zDeQi7bMom,Mon Jul 16 02:04:52 +0000 2018,0.0,0.0,1.0,0.0
+163,CBS News,"""I think I would prefer to be the first Alma than to be the second Mozart"": For musical prodigy Alma Deutscher, mak… https://t.co/o3bodPfnSh",Mon Jul 16 01:47:32 +0000 2018,0.0,0.0,1.0,0.0
+164,CBS News,"Seaweed, something often thought of as a nuisance, may just be a new source of food, jobs and cleaner ocean waters.… https://t.co/hCZLum6mME",Mon Jul 16 01:24:51 +0000 2018,0.1779,0.082,0.918,0.0
+165,CBS News,The Killers' Brandon Flowers: Swagger and faith https://t.co/9gQtGq6NJ0 https://t.co/UeLTprgePL,Mon Jul 16 01:04:31 +0000 2018,-0.3612,0.199,0.496,0.305
+166,CBS News,"""Eighth Grade"" star Elsie Fisher: Social media has ""made me more anxious"" https://t.co/BjOWGCHxiJ https://t.co/Lvs7s7XZ5e",Mon Jul 16 00:44:38 +0000 2018,-0.3167,0.0,0.85,0.15
+167,CBS News,60 Minutes: The history and future of Confederate monuments https://t.co/q8od2YiOjm https://t.co/Bw8dEpkkUq,Mon Jul 16 00:24:50 +0000 2018,0.0,0.0,1.0,0.0
+168,CBS News,Chicago police release video of deadly shooting amid violent protests in the city https://t.co/HLG1I3oMmd https://t.co/BLkDMKX2Y6,Mon Jul 16 00:04:41 +0000 2018,-0.7003,0.0,0.691,0.309
+169,CBS News,Former NHL goalie Ray Emery drowns in his hometown https://t.co/PtBwvgobcv https://t.co/J11Uh8ZFDp,Sun Jul 15 23:44:56 +0000 2018,-0.4939,0.0,0.758,0.242
+170,CBS News,Suspect in shooting of 3 Kansas City cops dies in standoff Sunday https://t.co/7pgS3EX3NL https://t.co/1DGSvLLUBw,Sun Jul 15 23:25:01 +0000 2018,-0.296,0.0,0.845,0.155
+171,CBS News,Russian feminist protest group Pussy Riot halts the World Cup Final by running onto the field in police uniforms in… https://t.co/0uemgpbdXT,Sun Jul 15 23:05:02 +0000 2018,-0.6808,0.0,0.772,0.228
+172,CBS News,A Massachusetts police officer and bystander have died from wounds sustained when a suspect allegedly took the offi… https://t.co/KZSgFjL9Fp,Sun Jul 15 22:44:37 +0000 2018,-0.7003,0.0,0.721,0.279
+173,CBS News,"""Tell us where we can pick up the 25 Russians that tried to interfere with the fundamentals of our democracy"": Sen.… https://t.co/SEt1j8c4SL",Sun Jul 15 22:25:03 +0000 2018,0.0,0.0,1.0,0.0
+174,CBS News,"With rising global populations and limited space to expand agriculture on land, fishermen, scientists and foodies a… https://t.co/Im8usqtG2A",Sun Jul 15 22:04:47 +0000 2018,0.1027,0.114,0.792,0.094
+175,CBS News,President Trump's one-on-one meeting with Russian President Vladimir Putin is scheduled to last about a half hour.… https://t.co/ICB31hOOwC,Sun Jul 15 21:44:48 +0000 2018,0.0,0.0,1.0,0.0
+176,CBS News,"Former NHL goaltender Ray Emery has drowned in his hometown of Hamilton, Ontario https://t.co/Hrm7xJ7hND https://t.co/i1FqbbbxRH",Sun Jul 15 21:24:34 +0000 2018,-0.5994,0.0,0.782,0.218
+177,CBS News,"Tonight, a 13-year-old musical prodigy whose talent is so immense it seems she was born with it. @scottpelley repor… https://t.co/0Etv8FQdpv",Sun Jul 15 21:04:48 +0000 2018,0.4215,0.135,0.865,0.0
+178,CBS News,"Brandon Flowers refers to himself as a ""glorified Elvis impersonator."" The Killers' latest album blends the glitz a… https://t.co/yQWgJaELrq",Sun Jul 15 20:44:34 +0000 2018,-0.25,0.14,0.678,0.182
+179,CBS News,A woman who vanished last week in California has been found after her Jeep went over a cliff near Big Sur… https://t.co/dblmJJqD6N,Sun Jul 15 20:34:35 +0000 2018,0.0,0.0,1.0,0.0
+180,The New York Times,The Right Way to Lose the Kavanaugh Fight https://t.co/nlOTmRQINC,Mon Jul 16 02:44:49 +0000 2018,-0.6486,0.0,0.569,0.431
+181,The New York Times,China’s Strong Economic Growth Figures Belie Signs of Weakness https://t.co/1JLYVw0mf2,Mon Jul 16 02:32:29 +0000 2018,0.4767,0.376,0.446,0.178
+182,The New York Times,"“I have TSA PreCheck and Clear — I have all the things, so I can fly like it’s the 70s.” The comedian and CNN host… https://t.co/LE4AHySlxW",Mon Jul 16 02:31:08 +0000 2018,0.7884,0.285,0.715,0.0
+183,The New York Times,President Trump is the first to go this long without awarding national medals in the arts and humanities https://t.co/hpeXsRGLD2,Mon Jul 16 02:13:01 +0000 2018,-0.3412,0.0,0.882,0.118
+184,The New York Times,"Cosby's absence from most episodes of ""A Different World"" makes it easier for fans to separate his tainted legacy f… https://t.co/PrCU30eE8F",Mon Jul 16 01:56:55 +0000 2018,0.4215,0.123,0.877,0.0
+185,The New York Times,"After Storm, Foreclosures in Puerto Rico Stopped. They’re Starting Again. https://t.co/9Q3GCivKAZ",Mon Jul 16 01:39:06 +0000 2018,-0.6486,0.0,0.629,0.371
+186,The New York Times,$88 Million and Counting: Trump Amasses Huge Head Start for 2020 Campaign https://t.co/SARPefIvsG,Mon Jul 16 01:36:39 +0000 2018,0.3182,0.161,0.839,0.0
+187,The New York Times,"“I think I’ve been a gentrifier everywhere I have lived since I left Oakland, so it’s a thing that I’m struggling w… https://t.co/Iu940sgVCg",Mon Jul 16 01:34:22 +0000 2018,-0.4215,0.0,0.865,0.135
+188,The New York Times,"Even if an apartment building can't or won't install solar panels, tenants can still access solar power. Here's how… https://t.co/HyMjo2p1uK",Mon Jul 16 01:18:06 +0000 2018,0.0,0.0,1.0,0.0
+189,The New York Times,The best part of any exercise class is the few minutes of cooling down and recovery at the end. Some new studios al… https://t.co/fn0BvmoOe4,Mon Jul 16 00:58:58 +0000 2018,0.6369,0.154,0.846,0.0
+190,The New York Times,Tracing Guccifer 2.0’s Many Tentacles in the 2016 Election https://t.co/C9llr41gAr,Mon Jul 16 00:41:32 +0000 2018,0.0,0.0,1.0,0.0
+191,The New York Times,"And then there was one. Soon, Oregon will have the last Blockbuster video store in the United States. https://t.co/FPiBugHPxE",Mon Jul 16 00:28:18 +0000 2018,0.7717,0.283,0.717,0.0
+192,The New York Times,White House Orders Direct Taliban Talks to Jump-Start Afghan Negotiations https://t.co/oNgkAu9fVd,Mon Jul 16 00:07:32 +0000 2018,0.0,0.0,1.0,0.0
+193,The New York Times,"Venezuela, the New Regional Crime Hub https://t.co/G9EFD0ugM1",Mon Jul 16 00:00:25 +0000 2018,-0.5423,0.0,0.632,0.368
+194,The New York Times,The Kardashians picked up right where the Simpsons left off when they launched their reality show on E! in 2008. No… https://t.co/B7ljgOYMJj,Sun Jul 15 23:58:42 +0000 2018,0.2003,0.079,0.921,0.0
+195,The New York Times,"Amazon’s Curious Case of the $2,630.52 Used Paperback https://t.co/eJPfaP3LWn",Sun Jul 15 23:39:47 +0000 2018,0.3182,0.223,0.777,0.0
+196,The New York Times,"This braised chicken recipe is quick, comforting, and only requires one pot https://t.co/LPdxg1UMgR https://t.co/eTfL06C31c",Sun Jul 15 23:38:37 +0000 2018,0.4019,0.172,0.828,0.0
+197,The New York Times,"""See ya later, suckas!"" *A 5-year-old who died from a rare form of cancer was remembered in his own words in a wide… https://t.co/pr1HP12yn3",Sun Jul 15 23:20:53 +0000 2018,-0.8516,0.0,0.707,0.293
+198,The New York Times,"No sitting on the floor, no hugging your siblings, and it’s best not to cry: Migrant children describe life in dete… https://t.co/uIBNxvpSnn",Sun Jul 15 23:03:35 +0000 2018,0.7314,0.309,0.549,0.142
+199,The New York Times,Nonfiction: What Edmund White Thinks You Should Read https://t.co/8F6R641WKh,Sun Jul 15 22:44:31 +0000 2018,0.0,0.0,1.0,0.0
+200,Fox News,"Hillary Clinton hits Trump over Putin summit, with a World Cup reference https://t.co/wREu23XI83",Mon Jul 16 01:29:42 +0000 2018,0.0,0.0,1.0,0.0
+201,Fox News,"Rep. @DarrellIssa: ""On foreign policy...people say, 'Well don't say anything about the elephants in the room.' Well… https://t.co/OLgKvvoKjv",Mon Jul 16 01:21:18 +0000 2018,0.2732,0.11,0.89,0.0
+202,Fox News,"RT @FoxNewsResearch: OTD in 2006: The social networking site Twitter, then called Twttr, opened to the public. There were 224 Tweets sent t…",Mon Jul 16 01:19:59 +0000 2018,0.0,0.0,1.0,0.0
+203,Fox News,"RT @FoxNewsResearch: .@POTUS on Putin &amp; Election Interference:
+
+•July 2017:
+→ Putin “vehemently denied” meddling
+
+•Nov 2017:
+→ #Putin “very…",Mon Jul 16 01:19:42 +0000 2018,0.0,0.0,1.0,0.0
+204,Fox News,".@kimguilfoyle: ""[President @realDonaldTrump] is trying a fresh approach versus the feckless foreign policy that wa… https://t.co/kyMHx1NHyZ",Mon Jul 16 01:13:56 +0000 2018,0.3182,0.141,0.859,0.0
+205,Fox News,"Prince William and Kate, Duchess of Cambridge, released several photos on Sunday from Prince Louis' christening. https://t.co/lFIFEY08K4",Mon Jul 16 01:11:48 +0000 2018,0.0,0.0,1.0,0.0
+206,Fox News,Trump says 'European Union is a foe' to US ahead of summit with Putin https://t.co/0JABQkOFHg,Mon Jul 16 01:00:40 +0000 2018,-0.4404,0.0,0.818,0.182
+207,Fox News,".@KrisJenner: ""You can get through anything as a family."" #OBJECTified https://t.co/dY6kjFmueq",Mon Jul 16 00:51:44 +0000 2018,0.0,0.0,1.0,0.0
+208,Fox News,"Illegal immigrant accused of attacking wife with chainsaw was deported 11 times, officials say https://t.co/N98k227pcs",Mon Jul 16 00:42:39 +0000 2018,-0.8316,0.0,0.577,0.423
+209,Fox News,".@KrisJenner on future involvement in politics: ""We certainly could make a difference in other areas. But right now… https://t.co/Gjk2uKnWWA",Mon Jul 16 00:38:37 +0000 2018,0.34,0.124,0.876,0.0
+210,Fox News,".@KrisJenner: ""Doing the reality show was probably the best thing that we ever did."" #OBJECTified https://t.co/OTlha6ZJ2c",Mon Jul 16 00:28:55 +0000 2018,0.6369,0.219,0.781,0.0
+211,Fox News,".@KrisJenner: ""I had to figure out a life that you don't depend on anyone else. That gave me great strength.""… https://t.co/nBIBmeGjle",Mon Jul 16 00:22:36 +0000 2018,0.6249,0.177,0.823,0.0
+212,Fox News,Elon Musk calls diver who helped save Thailand boys a 'pedo' for slamming his rescue idea https://t.co/ue8BG7PKbb,Mon Jul 16 00:20:06 +0000 2018,0.7579,0.317,0.683,0.0
+213,Fox News,"Meghan Markle's dad believes his daughter is 'terrified' adjusting to new life, calls royal family 'outdated' https://t.co/b3TfWn6am9",Mon Jul 16 00:11:59 +0000 2018,0.0,0.0,1.0,0.0
+214,Fox News,MONDAY: Chris Wallace sits down for an exclusive interview with Russian President Vladimir Putin following the summ… https://t.co/GJMY3krezG,Mon Jul 16 00:00:00 +0000 2018,0.128,0.081,0.919,0.0
+215,Fox News,".@newtgingrich on trade: ""We have enormous leverage. We have not used it very effectively. And that's going to make… https://t.co/wulcLcWbn5",Sun Jul 15 23:51:31 +0000 2018,0.4927,0.144,0.856,0.0
+216,Fox News,"@ChrisCoons on Russia: ""I commend President Trump for the steps he has taken, but to simply waive this off as Obama… https://t.co/JFtTLQwkcs",Sun Jul 15 23:46:04 +0000 2018,0.2382,0.085,0.915,0.0
+217,Fox News,".@ChrisCoons on Syria: ""If we don't have a presence on the ground, we don't have a seat at the table as the resolut… https://t.co/mIzVzAETo7",Sun Jul 15 23:40:54 +0000 2018,0.0,0.0,1.0,0.0
+218,Fox News,".@ChrisCoons on Trump, Putin meeting: ""I think it's too late for him to cancel the summit. But President Trump need… https://t.co/m8qZaexhZZ",Sun Jul 15 23:34:00 +0000 2018,-0.25,0.0,0.909,0.091
+219,Fox News,"RT @FoxNewsResearch: Americans working part time because hours were cut back or they couldn’t find a full-time job:
+•June 2010: 8.6M
+•June…",Sun Jul 15 23:32:02 +0000 2018,-0.2732,0.0,0.905,0.095
+220,CNN,Trump administration tries to clarify child reunification plan https://t.co/Kq4jcHm4Uv https://t.co/vNomKJPFmG,Sun Jul 15 22:52:05 +0000 2018,0.0,0.0,1.0,0.0
+221,CNN,"Drake vs. the Beatles? It's time to retire the rap vs. rock cliché, writes Jennifer Lynn Stoever for @CNNOpinion… https://t.co/9a4yiC61pp",Sun Jul 15 22:45:03 +0000 2018,0.0,0.0,1.0,0.0
+222,CNN,How companies change packaging without alienating customers https://t.co/TBOotsTzmM https://t.co/knhj1FykJV,Sun Jul 15 22:37:03 +0000 2018,0.0,0.0,1.0,0.0
+223,CNN,Republican Sen. Rand Paul says asking for the extradition of the Russian intelligence agents indicted for interferi… https://t.co/HQD67sG3N1,Sun Jul 15 22:30:10 +0000 2018,0.4767,0.154,0.846,0.0
+224,CNN,"France's World Cup win is a victory for immigrants everywhere, writes Peniel Joseph for @CNNOpinion… https://t.co/VaCuldzGb3",Sun Jul 15 22:22:04 +0000 2018,0.5859,0.213,0.787,0.0
+225,CNN,"President Trump suggests he'll bring up indicted Russians with Russian President Vladimir Putin, says it's somethin… https://t.co/hieYbGalBr",Sun Jul 15 22:15:10 +0000 2018,0.0,0.0,1.0,0.0
+226,CNN,"During Harry and Meghan's tour in Ireland, a teenage fan handed the Duke and Duchess of Sussex an unexpected presen… https://t.co/a4x7gnqcHD",Sun Jul 15 22:00:01 +0000 2018,0.3182,0.108,0.892,0.0
+227,CNN,"Billionaire tech entrepreneur Elon Musk sent a ""kid-size submarine"" to help the 12 boys trapped in the Thai cave. V… https://t.co/Rs3KDU65VD",Sun Jul 15 21:46:35 +0000 2018,-0.1779,0.112,0.747,0.141
+228,CNN,Fans are celebrating France's first World Cup victory in 20 years. The team defeated Croatia in the final with a sc… https://t.co/9NXLgHxg60,Sun Jul 15 21:30:00 +0000 2018,0.1531,0.143,0.736,0.12
+229,CNN,Florida town reopens beaches after 2 apparent shark attacks https://t.co/MdBHPOBsoz https://t.co/1Tr7c4bhSB,Sun Jul 15 21:15:02 +0000 2018,-0.4404,0.0,0.756,0.244
+230,CNN,"""My heart says we all better step up, that almost any patriot with a chance should be thinking about what they can… https://t.co/V5lIbZlGKH",Sun Jul 15 21:00:00 +0000 2018,0.5994,0.197,0.803,0.0
+231,CNN,"Sacha Baron Cohen punks politicians in ""Who is America?"" https://t.co/W1u47gD6e6 https://t.co/aEBhCuxN4H",Sun Jul 15 20:45:04 +0000 2018,0.0,0.0,1.0,0.0
+232,CNN,"To Russian President Vladimir Putin, President Trump insists he'll be ""different"" https://t.co/qrYJzrfHXs https://t.co/JRzjECvr8G",Sun Jul 15 20:30:14 +0000 2018,0.0,0.0,1.0,0.0
+233,CNN,Protests break out in Chicago after a man is fatally shot by police https://t.co/luzD44kkLy https://t.co/coCwSayG7Q,Sun Jul 15 20:15:04 +0000 2018,-0.7269,0.0,0.663,0.337
+234,CNN,"It was a golden weekend for Nicola Philippaerts in Chantilly, who picked up his second win of the Longines Global C… https://t.co/WhXzS8Pyn2",Sun Jul 15 20:00:23 +0000 2018,0.5859,0.16,0.84,0.0
+235,CNN,Having a rough day? Turn things around with the best *!&amp;$#*% thing you’ll see all week!  A brand-new season of… https://t.co/eRfjhAun8d,Sun Jul 15 19:45:18 +0000 2018,0.6988,0.21,0.79,0.0
+236,CNN,Key moments from France's electrifying World Cup final win https://t.co/umO1G6PVfX https://t.co/lqrY56Knnn,Sun Jul 15 19:30:09 +0000 2018,0.5859,0.275,0.725,0.0
+237,CNN,The boys who were trapped in a Thai cave mourn the Navy SEAL who died during their rescue https://t.co/bM6XREMD3F https://t.co/7VtM9dDXEO,Sun Jul 15 19:15:11 +0000 2018,-0.7579,0.117,0.534,0.349
+238,CNN,RT @cnnsport: Presidential seal of approval: Emmanuel Macron lets loose and celebrates #FRA's World Cup win: https://t.co/nuSIcTUHAv https:…,Sun Jul 15 19:08:00 +0000 2018,0.8519,0.394,0.52,0.086
+239,CNN,"Secretary of State Mike Pompeo calls talks with North Korea on returning service members' remains ""productive""… https://t.co/kwFiDlAWEo",Sun Jul 15 19:00:08 +0000 2018,0.0,0.0,1.0,0.0
+240,BBC News (World),"RT @BBCNews: So long, Mr President 🇺🇸🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧
+
+#TrumpVisitUK draws to a close as Donald Trump leaves Scotland bound for Finland 
+
+https://…",Sun Jul 15 15:26:08 +0000 2018,0.0,0.0,1.0,0.0
+241,BBC News (World),"RT @BBCSport: GOAL! #FRA 1-0 #CRO 
+
+It's an own goal!
+
+Griezmann's free-kick flicks off the head of Mandzukic and in.
+
+📺 @BBCOne 
+📻 @5liveS…",Sun Jul 15 15:19:41 +0000 2018,0.0,0.0,1.0,0.0
+242,BBC News (World),"North Korean restaurant staff defection was forced, manager says https://t.co/7CJFZjt5iJ",Sun Jul 15 15:07:52 +0000 2018,-0.6597,0.0,0.597,0.403
+243,BBC News (World),"RT @BBCSport: The #WorldCupFinal is under way!
+
+#FRA v #CRO live on:
+
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/PNwIAbg0Jd
+
+#WorldCup #FRACR…",Sun Jul 15 15:00:58 +0000 2018,0.0,0.0,1.0,0.0
+244,BBC News (World),"RT @BBCSport: Novak take the second set! 
+
+He's in complete control of this final. 
+
+Djokovic 6-2 6-2 Anderson 
+
+LIVE: 
+📺 @BBCTwo
+📻 @5liveS…",Sun Jul 15 14:25:30 +0000 2018,0.0,0.0,1.0,0.0
+245,BBC News (World),Spain far right protest against moving Franco's remains https://t.co/oZ4LgaBLcp,Sun Jul 15 14:20:39 +0000 2018,-0.25,0.0,0.8,0.2
+246,BBC News (World),Thai cave rescue: Thai boys' tears for lost rescue diver Saman https://t.co/b0EhIgYxss,Sun Jul 15 14:08:32 +0000 2018,0.5267,0.351,0.426,0.223
+247,BBC News (World),"RT @BBCSport: First set Djokovic.
+
+He's making it look easy out there on Centre Court. 
+
+Anderson 2-6 Djokovic 
+
+Join us LIVE: 
+📺 @BBCOne
+📻…",Sun Jul 15 13:48:08 +0000 2018,0.6249,0.195,0.805,0.0
+248,BBC News (World),"RT @bbctennis: 🏆IT'S MEN'S FINAL TIME.🏆
+
+Anderson 🇿🇦 v 🇷🇸 Djokovic
+ 
+Don't miss it! 🙌
+
+Join us LIVE: 
+📺 @BBCOne
+📻 @5liveSport extra
+👉 https…",Sun Jul 15 13:03:50 +0000 2018,-0.1867,0.067,0.832,0.101
+249,BBC News (World),Five boys drown in Bangladesh river after football match https://t.co/UiCXwfibZS,Sun Jul 15 12:39:36 +0000 2018,-0.5719,0.0,0.709,0.291
+250,BBC News (World),"A huge iceberg is looming over a village in Greenland
+
+https://t.co/eqGmt7Yoeg https://t.co/5VFnzmVAl8",Sun Jul 15 11:10:45 +0000 2018,0.2023,0.195,0.678,0.127
+251,BBC News (World),"The #ThaiCaveRescue boys made a video - and there's one thing on their minds 🍔🍖🍚
+
+https://t.co/ItRHFs3NYd https://t.co/goRYTyRJ9e",Sun Jul 15 10:59:52 +0000 2018,0.0,0.0,1.0,0.0
+252,BBC News (World),Trump: Low expectations for Putin talks https://t.co/915PsHvZuH,Sun Jul 15 10:09:31 +0000 2018,-0.2732,0.0,0.741,0.259
+253,BBC News (World),Chicago clashes after US police kill black man https://t.co/Q2AeXS85Yg,Sun Jul 15 09:25:00 +0000 2018,-0.6908,0.0,0.63,0.37
+254,BBC News (World),"Afghanistan conflict: Civilian deaths hit record high, says UN https://t.co/pb1yALVwXq",Sun Jul 15 08:34:58 +0000 2018,-0.3182,0.0,0.796,0.204
+255,BBC News (World),"RT @BBCNews: ""It's not my job to censor the views of Londoners"" 
+
+Mayor of London Sadiq Khan defends allowing 'Trump Baby' balloon to fly d…",Sun Jul 15 08:30:20 +0000 2018,-0.4588,0.0,0.889,0.111
+256,BBC News (World),"RT @BBCSport: 📆 The day has arrived.
+⏰ The wait is over.
+❌ Cancel your plans.
+🍕 Get the snacks in.
+
+🤩 IT'S WORLD CUP FINAL DAY! 🤩
+
+Here's o…",Sun Jul 15 07:55:20 +0000 2018,-0.3164,0.0,0.909,0.091
+257,BBC News (World),US woman rescued a week after California cliff plunge https://t.co/T9HEUh0TLX,Sun Jul 15 06:51:51 +0000 2018,0.4215,0.259,0.741,0.0
+258,BBC News (World),Haiti Prime Minister Jack Guy Lafontant resigns https://t.co/xmUXHSieeV,Sun Jul 15 00:34:00 +0000 2018,-0.3182,0.0,0.753,0.247
+259,BBC News (World),Cuba to recognise private property under new constitution https://t.co/eXuZpAUxvs,Sun Jul 15 00:26:13 +0000 2018,0.0,0.0,1.0,0.0
+260,CBS News,CONGRATS FRANCE! Fans are celebrating the team's second title after defeating Croatia in the #WorldCupFinal.… https://t.co/Lfqof589Jm,Sun Jul 15 20:25:13 +0000 2018,0.7597,0.342,0.548,0.11
+261,CBS News,"Tonight on @60Minutes, former New Orleans mayor Mitch Landrieu tells Anderson Cooper why he feels monuments to the… https://t.co/vEmBz9Vgcl",Sun Jul 15 20:04:50 +0000 2018,0.0,0.0,1.0,0.0
+262,CBS News,"More than 30 Ryanair passengers were taken to the hospital, some with bleeding in their ears after their plane lost… https://t.co/QmQqFX6NTQ",Sun Jul 15 19:44:35 +0000 2018,0.0,0.0,1.0,0.0
+263,CBS News,Jennifer Garner talks about her all-natural baby food company and the un-natural influence of the tabloid press (vi… https://t.co/B4DW9SPL1q,Sun Jul 15 19:24:39 +0000 2018,0.0,0.0,1.0,0.0
+264,CBS News,"Three people dead, 22 injured in crash involving a passenger bus and three other vehicles on a highway in New Mexic… https://t.co/JNCie0dQTb",Sun Jul 15 19:04:54 +0000 2018,-0.8658,0.0,0.637,0.363
+265,CBS News,Body camera video shows Georgia officers laughing as they use a coin-flip app to decide whether to detain a woman d… https://t.co/i2JDsu5ETP,Sun Jul 15 18:44:52 +0000 2018,0.1027,0.133,0.75,0.117
+266,CBS News,"@CBSNews For Rep. Gowdy’s full interview on @FaceTheNation, visit this link: https://t.co/avoXDdIiug",Sun Jul 15 18:30:49 +0000 2018,0.0,0.0,1.0,0.0
+267,CBS News,"""The loss, I have to take the responsibility for that."" @repjoecrowley reflects on stunning loss to political newco… https://t.co/vjRg7IRmbD",Sun Jul 15 18:25:00 +0000 2018,-0.25,0.117,0.676,0.207
+268,CBS News,NOW: President Trump arrives in Helsinki to meet with Russian President Vladimir Putin https://t.co/gwDuxMagwA https://t.co/sVcOVQxfG5,Sun Jul 15 18:09:46 +0000 2018,0.0,0.0,1.0,0.0
+269,CBS News,Finland's place as a European nation bordering Russia makes it a historic meeting place for the East and the West.… https://t.co/mx4fjn9RQ0,Sun Jul 15 18:05:42 +0000 2018,0.0,0.0,1.0,0.0
+270,CBS News,"Rep. Cornyn (R-TX) says President Trump appears to be ""conflating"" probe into Russian meddling with investigation o… https://t.co/xykoz0QPz5",Sun Jul 15 17:44:40 +0000 2018,0.0,0.0,1.0,0.0
+271,CBS News,"President Trump says the U.S. relationship with Russia is being ""greatly hampered"" by the ongoing investigation int… https://t.co/tY1Ug8UARF",Sun Jul 15 17:24:45 +0000 2018,0.0,0.0,1.0,0.0
+272,CBS News,"""I think it's always open to criticism in terms of policy"": Sen. Crowley reacts to  @Ocasio2018 accusing the ""Democ… https://t.co/cpXfy7SoLA",Sun Jul 15 17:18:47 +0000 2018,-0.5574,0.0,0.796,0.204
+273,CBS News,"""This was a big win for her and the future of our country"": Sen. Joe Crowley discusses his loss to political newcom… https://t.co/50kxuB6ZjA",Sun Jul 15 17:08:23 +0000 2018,0.3612,0.146,0.766,0.088
+274,CBS News,"JUST IN: France has defeated Croatia 4-2 in the World Cup final, capturing the country's second title ever.… https://t.co/pdhnbwZ4DB",Sun Jul 15 16:59:12 +0000 2018,-0.4767,0.0,0.853,0.147
+275,CBS News,The rise in the soccer's popularity among American fans has run parallel to the rise of a new medium: the internet.… https://t.co/Gl7JnXUzgS,Sun Jul 15 16:53:47 +0000 2018,0.4767,0.134,0.866,0.0
+276,CBS News,"Ahead of Helsinki summit, Rep. Gowdy wants President Trump to ask Putin where ""we can pick up the 25 Russians"" indi… https://t.co/OjpR5HySwF",Sun Jul 15 16:44:42 +0000 2018,0.0,0.0,1.0,0.0
+277,CBS News,"""This is, to me, an area that is going to continue to be exploited by our adversaries"": Sen. John Cornyn stressed t… https://t.co/IyUFEdpNvB",Sun Jul 15 16:36:17 +0000 2018,-0.6597,0.0,0.795,0.205
+278,CBS News,"""I think the president should be clear eyed about who he's dealing with— Putin is an autocrat, he's a thug, he does… https://t.co/ZEQmdGu91a",Sun Jul 15 16:27:23 +0000 2018,0.3818,0.11,0.89,0.0
+279,CBS News,"Novak Djokovic wins Wimbledon for a fourth time, 13th major overall  https://t.co/my8JdisBtH https://t.co/lwt5bHjH5o",Sun Jul 15 16:19:41 +0000 2018,0.5719,0.252,0.748,0.0
+280,The New York Times,Elizabeth Warren. Joe Biden. Kamala Harris. Cory Booker. Bernie Sanders. It's beginning. https://t.co/05xuZwJz6d,Sun Jul 15 22:32:20 +0000 2018,0.0,0.0,1.0,0.0
+281,The New York Times,Witness in 360 video as fans in Paris celebrate the French team’s victory in the World Cup final https://t.co/NrM8gxIdqw,Sun Jul 15 22:15:07 +0000 2018,0.5719,0.171,0.829,0.0
+282,The New York Times,Could You Make It Through Dinner Without Checking Your Phone? https://t.co/XWZPSb6tLa,Sun Jul 15 22:05:35 +0000 2018,0.0,0.0,1.0,0.0
+283,The New York Times,"Up high, in the luxury suites among the royals and the politicians, Emmanuel Macron, the French president, was cutt… https://t.co/hLAxx1Hhdz",Sun Jul 15 22:00:06 +0000 2018,0.0,0.0,1.0,0.0
+284,The New York Times,"Dwayne Johnson can save cities, but he couldn’t defeat a vacationing cartoon vampire at the box office https://t.co/peDeHYp7UW",Sun Jul 15 21:45:05 +0000 2018,-0.4404,0.1,0.711,0.19
+285,The New York Times,"“I’m a mercenary. That’s what people hire me for, and I don’t apologize for it.” Our magazine profiled Michael Aven… https://t.co/mtBaxdpyL5",Sun Jul 15 21:30:06 +0000 2018,0.1027,0.072,0.928,0.0
+286,The New York Times,A man evading arrest and wielding a rifle shot and wounded 3 police officers during a lengthy search and firefight… https://t.co/A8mo5hFiWf,Sun Jul 15 21:24:29 +0000 2018,-0.34,0.0,0.87,0.13
+287,The New York Times,"In Opinion
+
+Contributing writer @zeynep writes, ""The kind of publicity Elon Musk created can take on a life of its… https://t.co/sNeOMgXzpU",Sun Jul 15 21:15:02 +0000 2018,0.25,0.095,0.905,0.0
+288,The New York Times,"As a whole, morale at the FBI remains high, despite a barrage of attacks by the president and his allies https://t.co/rT21v4zHYF",Sun Jul 15 21:00:06 +0000 2018,0.3412,0.118,0.882,0.0
+289,The New York Times,"About 120 cows roam freely around Cambridge, England. Residents take pride in their bovine neighbors and say they a… https://t.co/7WCe0PLkV8",Sun Jul 15 20:45:04 +0000 2018,0.6486,0.227,0.773,0.0
+290,The New York Times,Georgia's Republican primary for governor pits a wealthy businessman playing up his far-right persona against an op… https://t.co/EldCSQFlP9,Sun Jul 15 20:30:10 +0000 2018,0.5106,0.223,0.777,0.0
+291,The New York Times,“Who Is America?” on Showtime reprises Sacha Baron Cohen’s gotcha techniques at a time when people don’t need to be… https://t.co/kkBtXN1L9b,Sun Jul 15 20:26:55 +0000 2018,0.0,0.0,1.0,0.0
+292,The New York Times,Floodplain restoration in California is increasingly seen as a way of coping with the future — one of human-induced… https://t.co/EMn8GtdoTv,Sun Jul 15 20:15:03 +0000 2018,0.0,0.0,1.0,0.0
+293,The New York Times,"Here are the week’s top stories, and a look ahead https://t.co/imguoX3PWm",Sun Jul 15 20:00:22 +0000 2018,0.2023,0.167,0.833,0.0
+294,The New York Times,The agony and ecstasy of World Cup soccer https://t.co/02tgQCsclu,Sun Jul 15 19:45:06 +0000 2018,0.2732,0.285,0.511,0.204
+295,The New York Times,The Russian military intelligence agency accused of meddling in the U.S. election most likely carried out an audaci… https://t.co/qaXjrYBoos,Sun Jul 15 19:37:05 +0000 2018,0.2263,0.139,0.762,0.099
+296,The New York Times,Here are a few ideas for what to cook this week https://t.co/47aTJetOBG,Sun Jul 15 19:30:17 +0000 2018,0.0,0.0,1.0,0.0
+297,The New York Times,"3 years after a racist blood bath in its fellowship hall, a Charleston church unveiled designs for a contemplative… https://t.co/0epd9q1OQA",Sun Jul 15 19:22:01 +0000 2018,-0.6124,0.0,0.789,0.211
+298,The New York Times,"In Opinion
+
+Op-Ed contributor David Bentley Hart writes, ""No one elsewhere wants to root for a team like the Yankee… https://t.co/SLK2iO5iDm",Sun Jul 15 19:15:08 +0000 2018,0.0772,0.11,0.793,0.097
+299,The New York Times,"“We had much better defenses,” President Trump said, suggesting that the Russians could not hack the Republican Nat… https://t.co/TJbpCl1tGD",Sun Jul 15 19:07:06 +0000 2018,0.4404,0.139,0.861,0.0
+300,Fox News,McLaren 720S sports car 'destroyed' in crash day after it was bought https://t.co/okSKBT0RVe,Sun Jul 15 23:26:00 +0000 2018,-0.4019,0.0,0.816,0.184
+301,Fox News,RT @FoxBusiness: Senate lawmakers try keeping Trump tariffs in check: Kennedy. https://t.co/PgbtgZivk0,Sun Jul 15 23:21:29 +0000 2018,0.0,0.0,1.0,0.0
+302,Fox News,Coupon dispute prompts white CVS manager to call police on black woman: report https://t.co/dQMbmeaFRd,Sun Jul 15 23:19:07 +0000 2018,-0.4019,0.0,0.828,0.172
+303,Fox News,"TONIGHT: Don't miss ""Life, Liberty, &amp; Levin"" with @marklevinshow - Tune in at 10p ET on Fox News Channel! https://t.co/sOOEF0qfKF",Sun Jul 15 23:17:00 +0000 2018,-0.3867,0.067,0.79,0.143
+304,Fox News,".@JonHuntsman: ""We have an election coming up in November and if there is meddling in the election this November, l… https://t.co/1qDGMjRJPO",Sun Jul 15 23:13:02 +0000 2018,0.0,0.0,1.0,0.0
+305,Fox News,".@GovMikeHuckabee on NATO: ""Thank goodness that [@POTUS] doesn't just roll over and let these smaller nations push… https://t.co/3Jc7Qmj5lX",Sun Jul 15 23:03:20 +0000 2018,0.6705,0.256,0.744,0.0
+306,Fox News,'Super Judgmental': Rep. Tim Ryan Reacts to Pelosi's Remark That He Is 'Inconsequential' https://t.co/OGOZgSryKu,Sun Jul 15 22:59:36 +0000 2018,0.5994,0.231,0.769,0.0
+307,Fox News,"Michael Anton on Trump, Putin meeting: ""This is only the second formal meeting that these two presidents will have… https://t.co/PQktsntGF2",Sun Jul 15 22:50:35 +0000 2018,0.0,0.0,1.0,0.0
+308,Fox News,OPINION: Twitter is the latest battlefield between the US and Iran https://t.co/2iAIhI9aHH,Sun Jul 15 22:42:51 +0000 2018,-0.3818,0.0,0.809,0.191
+309,Fox News,"3 people killed, 24 injured after multi-vehicle crash involving tour bus in New Mexico https://t.co/fgilJV3NRR",Sun Jul 15 22:24:51 +0000 2018,-0.872,0.0,0.526,0.474
+310,Fox News,France's World Cup victory celebrated in US and around the world https://t.co/9b7iG4sOtm,Sun Jul 15 22:19:22 +0000 2018,0.5719,0.252,0.748,0.0
+311,Fox News,President @realDonaldTrump and Russian President Vladimir Putin are hours away from their meeting in Helsinki;… https://t.co/0DxOO0ETyk,Sun Jul 15 22:13:55 +0000 2018,0.0,0.0,1.0,0.0
+312,Fox News,Tune in to Fox News Channel now for a special edition of 'Special Report' hosted by @BillHemmer live from Helsinki! https://t.co/zARJSk9E4p,Sun Jul 15 22:08:51 +0000 2018,0.69,0.24,0.76,0.0
+313,Fox News,Michael Goodwin: Peter Strzok's arrogance is the product of a corrupt FBI https://t.co/tNrc1Y97gK,Sun Jul 15 22:00:18 +0000 2018,-0.5267,0.0,0.764,0.236
+314,Fox News,Cease-fire appears to hold after barrage of Israel-Hamas airstrikes; @ConormPowell reports. #FoxReport… https://t.co/G7Pf0vBFC1,Sun Jul 15 21:58:58 +0000 2018,0.0,0.0,1.0,0.0
+315,Fox News,"Chicago man shot, killed by officers appeared to have gun, police say https://t.co/UF2QaDertQ",Sun Jul 15 21:52:23 +0000 2018,-0.7845,0.0,0.615,0.385
+316,Fox News,Activists are calling on @POTUS to put pressure on Russian President Vladimir Putin to release religious and politi… https://t.co/EOHaeoE3if,Sun Jul 15 21:49:29 +0000 2018,-0.296,0.0,0.891,0.109
+317,Fox News,"On an all-new 'OBJECTified,' @KrisJenner sits down with @harveylevintmz to discuss her journey – and the events tha… https://t.co/Na9Kthis9p",Sun Jul 15 21:49:00 +0000 2018,0.0,0.0,1.0,0.0
+318,Fox News,"MONDAY on #Hannity, @seanhannity has the first interview with President @realDonaldTrump after his meeting with Rus… https://t.co/W2yKxuWXDk",Sun Jul 15 21:40:32 +0000 2018,0.0,0.0,1.0,0.0
+319,Fox News,California's Democratic Party has declined to endorse @SenFeinstein's reelection bid; @Jeff_Journalist reports.… https://t.co/2I7qqqfbI6,Sun Jul 15 21:39:24 +0000 2018,0.6124,0.312,0.688,0.0
+320,CNN,"RT @cnnsport: Didier Deschamps is just the third man to win the World Cup as both a player and a coach, following in the footsteps of Brazi…",Sun Jul 15 18:57:10 +0000 2018,0.5859,0.137,0.863,0.0
+321,CNN,Israel's Prime Minister Benjamin Netanyahu says no ceasefire with Gaza if arson attacks continue… https://t.co/YJfSiWGm6z,Sun Jul 15 18:45:04 +0000 2018,-0.6249,0.0,0.718,0.282
+322,CNN,"RT @cnnsport: Before Paul Pogba's goal, a player hadn't scored from outside the box in a World Cup final for 36 years. 
+
+Kylian Mbappé did…",Sun Jul 15 18:31:39 +0000 2018,0.0,0.0,1.0,0.0
+323,CNN,The new General Electric still faces many old problems https://t.co/0Nb4l1Kpv9 https://t.co/z5S1odMrrd,Sun Jul 15 18:30:13 +0000 2018,-0.4019,0.0,0.787,0.213
+324,CNN,"RT @cnnsport: Joy and despair. 
+
+France wins its second World Cup trophy 👉 https://t.co/wfhwpASrde https://t.co/fyyL9D93XX",Sun Jul 15 18:16:49 +0000 2018,0.7351,0.361,0.529,0.111
+325,CNN,Former President Barack Obama is in Kenya for his sister's project. Then he's off to South Africa.… https://t.co/NgLPtwnfMz,Sun Jul 15 18:15:08 +0000 2018,0.0,0.0,1.0,0.0
+326,CNN,British Prime Minister Theresa May says President Trump advised her to sue the European Union… https://t.co/bJcfO2m6oj,Sun Jul 15 18:00:14 +0000 2018,0.0,0.0,1.0,0.0
+327,CNN,"Back with his son after 8 weeks, a migrant father tells separated families: ""Don't give up"" https://t.co/p4InGiqGcv https://t.co/zGOnvwZqzX",Sun Jul 15 17:45:06 +0000 2018,0.0,0.0,1.0,0.0
+328,CNN,Serena Williams sends a message to mothers after Wimbledon loss https://t.co/A2GS0uB9QD https://t.co/FJC0APJUuZ,Sun Jul 15 17:30:14 +0000 2018,-0.3182,0.0,0.813,0.187
+329,CNN,Why President Trump is the distraction Russian President Vladimir Putin needs https://t.co/sZ84yjZi9P | Analysis by… https://t.co/T8UD95PCx0,Sun Jul 15 17:15:07 +0000 2018,-0.3818,0.0,0.843,0.157
+330,CNN,France wins the World Cup for the second time — overcoming Croatia in the highest-scoring final since 1966… https://t.co/8YXlU5mVBz,Sun Jul 15 17:00:07 +0000 2018,0.5719,0.179,0.821,0.0
+331,CNN,Why Kenyans are supporting Croatia in the World Cup final https://t.co/Q4oSqU1Vuu https://t.co/xCWF1nYhTM,Sun Jul 15 16:45:07 +0000 2018,0.4404,0.209,0.791,0.0
+332,CNN,Two killed in Nicaragua during attack on university and church https://t.co/PaYVsdm9KS https://t.co/SwlWMkstou,Sun Jul 15 16:30:15 +0000 2018,-0.8225,0.0,0.568,0.432
+333,CNN,"President Trump named the European Union, Russia and China as foes to the US, saying the EU has ""taken advantage of… https://t.co/4oulaFDK1l",Sun Jul 15 16:15:05 +0000 2018,-0.25,0.08,0.8,0.12
+334,CNN,A federal judge has blasted a declaration from a senior official at the Department of Health and Human Services who… https://t.co/b3x294IZlX,Sun Jul 15 16:00:07 +0000 2018,0.0,0.0,1.0,0.0
+335,CNN,"Plagued by injury in recent years, Novak Djokovic cruised to his fourth Wimbledon title after defeating Kevin Ander… https://t.co/J0escZAiLM",Sun Jul 15 15:45:04 +0000 2018,-0.6597,0.0,0.759,0.241
+336,CNN,"Why Google built an artificial intelligence lab in Accra, Ghana https://t.co/PpsPZbGGzK https://t.co/O89bbVpR7m",Sun Jul 15 15:30:11 +0000 2018,0.4767,0.22,0.78,0.0
+337,CNN,Will Uber's CEO still be able to save the brand's image? https://t.co/j0XtnyTXiA https://t.co/3krHUSBgw9,Sun Jul 15 15:23:46 +0000 2018,0.4939,0.211,0.789,0.0
+338,CNN,How do you remember the legacy of President George W. Bush? See how the challenges he faced defined a decade in a n… https://t.co/erBUPxttCA,Sun Jul 15 15:00:12 +0000 2018,0.0772,0.058,0.942,0.0
+339,CNN,"From the biggest street art party in Hong Kong to a community art tour, here are six Instagrammable ways to enjoy H… https://t.co/o5cQhyMSbh",Sun Jul 15 14:30:13 +0000 2018,0.7096,0.228,0.772,0.0
+340,BBC News (World),Reality Check: Taxing 'gossip' on the internet https://t.co/YBQoprzbPd,Sat Jul 14 23:37:43 +0000 2018,0.0,0.0,1.0,0.0
+341,BBC News (World),Paid Off: TV show offers to pay off student debt https://t.co/msFpUc1Nwb,Sat Jul 14 23:34:38 +0000 2018,-0.4404,0.0,0.698,0.302
+342,BBC News (World),Young Russians see lives changed by feel-good World Cup https://t.co/HUGZJ4kfVM,Sat Jul 14 23:17:30 +0000 2018,0.0,0.0,1.0,0.0
+343,BBC News (World),The power-sharing dream: Where women rule in the world https://t.co/p5L4Wr6ZHg,Sat Jul 14 23:15:03 +0000 2018,0.25,0.182,0.818,0.0
+344,BBC News (World),'Why I keep my vasectomy a secret' https://t.co/obCZSynxvT,Sat Jul 14 23:09:14 +0000 2018,0.0,0.0,1.0,0.0
+345,BBC News (World),Why this Bollywood film on middle-age love is unusual https://t.co/eSy18ipRuD,Sat Jul 14 23:06:26 +0000 2018,0.6369,0.318,0.682,0.0
+346,BBC News (World),Tanzania's John Magufuli orders harsher prisoners' conditions https://t.co/rJo1kYdB1G,Sat Jul 14 19:37:54 +0000 2018,-0.7579,0.0,0.48,0.52
+347,BBC News (World),Wave of Israeli Gaza strikes amid surge in rocket attacks https://t.co/OxenQdZxes,Sat Jul 14 17:27:05 +0000 2018,-0.6597,0.0,0.625,0.375
+348,BBC News (World),"Mon dieu! 🤦‍♀️
+
+#BastilleDay went off with a bang - for these police motorcyclists
+
+https://t.co/jh88YrDQA4… https://t.co/4vPtLySx2c",Sat Jul 14 17:16:12 +0000 2018,0.0,0.0,1.0,0.0
+349,BBC News (World),Gerry Adams calls on home attackers to meet him https://t.co/XT9uZQDCha,Sat Jul 14 16:42:31 +0000 2018,-0.5719,0.0,0.709,0.291
+350,BBC News (World),Irish president to face challenger in unusual poll https://t.co/Ei2BFGeg28,Sat Jul 14 16:32:40 +0000 2018,0.128,0.158,0.842,0.0
+351,BBC News (World),"RT @BBCSport: Angelique Kerber is the #wimbledon champion! 👏
+
+The German beats Serena Williams to lift the trophy for the first time! 🙌
+ 
+L…",Sat Jul 14 16:23:12 +0000 2018,0.6688,0.176,0.824,0.0
+352,BBC News (World),Sinn Féin to challenge Higgins in Irish presidential election https://t.co/EG3j3T0ode,Sat Jul 14 16:05:49 +0000 2018,0.0772,0.126,0.874,0.0
+353,BBC News (World),"RT @BBCSport: FT Belgium 2-0 England
+
+England leave Russia with their heads held high and their joint-best #worldcup finish since '66.
+
+Bel…",Sat Jul 14 15:52:12 +0000 2018,-0.0516,0.0,0.946,0.054
+354,BBC News (World),"RT @BBCSport: GOAL
+
+That might just settle it.
+
+Eden Hazard races past Phil Jones and makes it Belgium 2-0 England
+
+Live 👉 https://t.co/zMI…",Sat Jul 14 15:42:00 +0000 2018,0.0,0.0,1.0,0.0
+355,BBC News (World),Nicaragua crisis: One student killed as bloody church siege ends https://t.co/1bQX21TlDX,Sat Jul 14 15:33:35 +0000 2018,-0.91,0.0,0.41,0.59
+356,BBC News (World),"RT @bbctennis: A royal standing ovation.
+
+But who will be crowned the queen of Wimbledon 2018?
+
+#bbctennis #wimbledon https://t.co/Z5an2Giy…",Sat Jul 14 15:19:28 +0000 2018,0.0,0.0,1.0,0.0
+357,BBC News (World),Trump criticises Obama over US 2016 election hack https://t.co/3c0id69ojB,Sat Jul 14 15:02:01 +0000 2018,-0.3182,0.0,0.777,0.223
+358,BBC News (World),"RT @BBCSport: He's done it! 🙌 
+
+WHAT A MATCH! 🔥 
+
+Novak Djokovic is through to his fifth #Wimbledon final! 
+
+Nadal 4-6 6-3 6-7 (9-11) 6-3 8…",Sat Jul 14 14:34:10 +0000 2018,0.0,0.0,1.0,0.0
+359,BBC News (World),100 Women: 'I was a World Cup honey shot' https://t.co/9ensWjbnPv,Sat Jul 14 14:20:00 +0000 2018,0.0,0.0,1.0,0.0
+360,CBS News,"""This is serious— I agree that Russians did meddle in our elections, and we better be prepared for the next time"":… https://t.co/lMpbpFZJfi",Sun Jul 15 16:16:24 +0000 2018,0.743,0.289,0.711,0.0
+361,CBS News,"European Union President Donald Tusk says ""America and the EU are best friends"" after Pres. Trump called the Europe… https://t.co/RvzhN0099B",Sun Jul 15 16:08:01 +0000 2018,0.8074,0.289,0.711,0.0
+362,CBS News,"""Public hearings are a circus. That's why I don't like to do them. I don't do many of them. It's a freak show"": Rep… https://t.co/BLVbnMoudj",Sun Jul 15 15:56:04 +0000 2018,-0.6136,0.0,0.791,0.209
+363,CBS News,"""Your first request of Vladimir Putin needs to be, tell us which airport we can pick up the 25 Russians that tried… https://t.co/ObsBMsFgQD",Sun Jul 15 15:45:22 +0000 2018,0.0,0.0,1.0,0.0
+364,CBS News,"""My focus is on the first thing. What did Russia do? That is not a witch hunt. That is an attack on our country,"" R… https://t.co/TC0oW3R1KD",Sun Jul 15 15:37:19 +0000 2018,-0.2477,0.075,0.815,0.11
+365,CBS News,".@POTUS on why EU is a foe: ""Both my parents were born in EU sectors... And, you know, I love those countries. I re… https://t.co/Ojt7DXuguB",Sun Jul 15 15:09:32 +0000 2018,0.3182,0.155,0.738,0.107
+366,CBS News,"""President Putin has met with three previous U.S. presidents, never before has there been a private meeting of this… https://t.co/GWc9YEbtNF",Sun Jul 15 14:59:41 +0000 2018,0.0,0.0,1.0,0.0
+367,CBS News,"When asked to identify his ""biggest foe globally right now,"" President Trump told @jeffglor the European Union is a… https://t.co/IcQA7MRbh5",Sun Jul 15 14:53:42 +0000 2018,-0.4404,0.0,0.868,0.132
+368,CBS News,"@CBSNews @jeffglor: The Russians who were indicted, would you ask Putin to send them here?
+@POTUS: Well, I might. I… https://t.co/65k8NeCLjM",Sun Jul 15 14:43:25 +0000 2018,0.2732,0.1,0.9,0.0
+369,CBS News,"""I go in with very low expectations. I think that getting along with Russia is a good thing, but it's possible we w… https://t.co/tb22yYcWeK",Sun Jul 15 14:39:01 +0000 2018,0.0653,0.082,0.846,0.072
+370,CBS News,"President Trump advised British Prime Minister Theresa May to ""sue"" the European Union in the tense negotiations ov… https://t.co/IB6A8q3pJ8",Sun Jul 15 14:24:39 +0000 2018,-0.34,0.0,0.882,0.118
+371,CBS News,RT @FaceTheNation: BREAKING: President Trump in new @CBSNews interview calls the European Union a “foe” of the United States. The president…,Sun Jul 15 14:21:15 +0000 2018,0.4215,0.128,0.872,0.0
+372,CBS News,RT @NorahODonnell: Joining @FaceTheNation from #Helsinki for more on #TrumpPutinSummit https://t.co/cjTU0XSxg6,Sun Jul 15 14:06:55 +0000 2018,0.0,0.0,1.0,0.0
+373,CBS News,"As Syrian leader Bashar al-Assad's regime violently assaults the southern region of Syria, members of the White Hel… https://t.co/aNiIX4La1S",Sun Jul 15 14:04:59 +0000 2018,-0.8074,0.0,0.7,0.3
+374,CBS News,"RT @CBSSunday: .@thekillers song ""Mr. Brightside"" skyrocketed up the charts in 2003, &amp; the group's most recent album, ""Wonderful Wonderful,…",Sun Jul 15 13:48:48 +0000 2018,0.6077,0.173,0.827,0.0
+375,CBS News,"John Cynn claims World Series of Poker title, winning $8.8 million https://t.co/YqqMAX8HvH https://t.co/it5mn0w1ep",Sun Jul 15 13:29:39 +0000 2018,0.5267,0.221,0.779,0.0
+376,CBS News,RT @CBSThisMorning: Our very own @NorahODonnell is in #Helsinki ahead of Monday’s summit with President Trump and Russian President Putin.…,Sun Jul 15 13:17:09 +0000 2018,0.0,0.0,1.0,0.0
+377,CBS News,"RT @FaceTheNation: TODAY: Margaret Brennan questions
+✔️ @TGowdySC 
+✔️ @JohnCornyn 
+✔️ @JoeCrowleyNY 
+✔️ Amb. Victoria Nuland
+✔️ Thomas Doni…",Sun Jul 15 13:03:56 +0000 2018,0.0,0.0,1.0,0.0
+378,CBS News,"RT @FaceTheNation: Here's another preview from the upcoming @realDonaldTrump interview airing TODAY.
+  
+We'll have more from the interview…",Sun Jul 15 13:03:24 +0000 2018,0.0,0.0,1.0,0.0
+379,CBS News,"Trump administration lays out plan to reunite 2,500 immigrant children with their families https://t.co/nem8BklQhu https://t.co/YxHlrAUWLi",Sun Jul 15 13:03:03 +0000 2018,0.0,0.0,1.0,0.0
+380,The New York Times,A Greenpeace paraglider propelled past President Trump with a banner saying “Trump Well Below Par” at a golf resort… https://t.co/AnUO50vpZu,Sun Jul 15 19:00:06 +0000 2018,0.2732,0.116,0.884,0.0
+381,The New York Times,We have combined all 163 impassioned cries by Telemundo's announcers into one lung-bursting goal call https://t.co/heCP0PG5Ob,Sun Jul 15 18:45:06 +0000 2018,-0.4019,0.0,0.847,0.153
+382,The New York Times,Members of the political activist group Pussy Riot said they staged a disruption of the World Cup final by running… https://t.co/8PENbpQwSp,Sun Jul 15 18:30:06 +0000 2018,-0.7269,0.0,0.747,0.253
+383,The New York Times,"Here’s a brief, hilarious and cringe-inducing roundup of some of Sacha Baron Cohen's best and most controversial po… https://t.co/fNsW6D6P8k",Sun Jul 15 18:15:07 +0000 2018,0.701,0.288,0.625,0.087
+384,The New York Times,President Trump is the first to go this long without awarding national medals in the arts and humanities https://t.co/pEm3I7fuEZ,Sun Jul 15 18:00:12 +0000 2018,-0.3412,0.0,0.882,0.118
+385,The New York Times,"""See ya later, suckas!"" *A 5-year-old who died from a rare form of cancer was remembered in his own words in a wide… https://t.co/KC1TSCLnXD",Sun Jul 15 17:45:04 +0000 2018,-0.8516,0.0,0.707,0.293
+386,The New York Times,"A Chicago police officer fatally shot a man on the city’s South Side, angering nearby residents who gathered at the… https://t.co/TKAizAtGj9",Sun Jul 15 17:30:13 +0000 2018,-0.8126,0.0,0.697,0.303
+387,The New York Times,"As Canadians fume about President Trump's tariffs and behavior, a major retailer in the country has dropped Ivanka… https://t.co/bZqRClPJ3B",Sun Jul 15 17:15:05 +0000 2018,-0.296,0.0,0.885,0.115
+388,The New York Times,"Video review made its debut at this World Cup, and it had an immediate impact. https://t.co/gNtTIIViEE",Sun Jul 15 17:07:02 +0000 2018,0.0,0.0,1.0,0.0
+389,The New York Times,All Putin really needs to make his meeting with Trump a success is for it to take place without any major friction https://t.co/eGFZlq7X2a,Sun Jul 15 17:00:15 +0000 2018,0.5719,0.15,0.85,0.0
+390,The New York Times,"🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷
+The day after Bastille Day, France has another reason to celebrate. France has won its sec… https://t.co/uuUe86WKvK",Sun Jul 15 16:58:30 +0000 2018,0.8126,0.316,0.684,0.0
+391,The New York Times,It seemed that all of France was watching https://t.co/HEDSTcPfj6,Sun Jul 15 16:48:04 +0000 2018,0.0,0.0,1.0,0.0
+392,The New York Times,"“He told me I should sue the EU,” Theresa May revealed the advice President Trump gave on how to negotiate Britain’… https://t.co/L9PKUJrCK4",Sun Jul 15 16:45:04 +0000 2018,0.0,0.0,1.0,0.0
+393,The New York Times,Those who saw Kylian Mbappé as a child knew he was special. But they couldn't know quite how far his talent would t… https://t.co/qibbfespmW,Sun Jul 15 16:42:38 +0000 2018,0.6705,0.208,0.792,0.0
+394,The New York Times,Agents with blowtorches in the dark of night: Inside the raid that gave Israel a trove of Iran's nuclear secrets https://t.co/aaZbNw7pYA,Sun Jul 15 16:30:03 +0000 2018,0.0,0.0,1.0,0.0
+395,The New York Times,Wow. Croatia scores! It's not over yet. France 4 Croatia 2. https://t.co/HOUd28pa1I,Sun Jul 15 16:29:15 +0000 2018,0.6239,0.29,0.71,0.0
+396,The New York Times,"Kylian Mbappe, 19, is the first teenager to score in a World Cup final since Pelé. He scored France's 4th goal. https://t.co/p9qkbrrx7p",Sun Jul 15 16:26:43 +0000 2018,0.0,0.0,1.0,0.0
+397,The New York Times,Paul Pogba makes it 3-1 for France! https://t.co/e02eAPqaLM,Sun Jul 15 16:19:11 +0000 2018,0.0,0.0,1.0,0.0
+398,The New York Times,Paramilitary forces backed by Nicaragua’s government killed 2 people during a 12-hour siege on a church where stude… https://t.co/0jiQber3uG,Sun Jul 15 16:15:01 +0000 2018,-0.6597,0.056,0.714,0.23
+399,The New York Times,A federal judge had some harsh words for a Health and Human Services official who said a court order to reunite mig… https://t.co/cCl4gsuteH,Sun Jul 15 16:00:09 +0000 2018,-0.4404,0.0,0.868,0.132
+400,Fox News,".@GillianHTurner: ""Reaction to Strzok's testimony in the halls of the nationals capital has been swift and largely… https://t.co/92hTUxNKvR",Sun Jul 15 21:32:36 +0000 2018,0.2023,0.096,0.904,0.0
+401,Fox News,".@RepPeteKing on Trump, Putin summit: ""[Putin] has to realize that if he wants any type of sanctions relief, if he… https://t.co/oeKdTrtk9y",Sun Jul 15 21:28:00 +0000 2018,0.4767,0.134,0.866,0.0
+402,Fox News,Archaeologists in Egypt discover ancient mummification workshop https://t.co/6NPs4WDhSk,Sun Jul 15 21:15:22 +0000 2018,0.0,0.0,1.0,0.0
+403,Fox News,"Doug McKelway: ""Some critics are questioning the timing of this indictment as an attempt to embarrass the president… https://t.co/JxjYe0UH2r",Sun Jul 15 21:14:35 +0000 2018,-0.5859,0.0,0.734,0.266
+404,Fox News,"'It's Standard': @RealCandaceO Slams @HillaryClinton for 'Ridiculous' Rhetoric on @POTUS's SCOTUS Pick
+https://t.co/ipNAF8Eln7",Sun Jul 15 21:11:11 +0000 2018,0.0,0.0,1.0,0.0
+405,Fox News,"Defeated Rep. Crowley tries easing tensions with Ocasio-Cortez, won't endorse Pelosi https://t.co/INKbKvXys2",Sun Jul 15 21:04:40 +0000 2018,-0.6968,0.113,0.45,0.437
+406,Fox News,".@RepKinzinger on Trump, Putin meeting: ""I think a nuclear deal could certainly be probably the easiest because all… https://t.co/m5DrXq61d0",Sun Jul 15 20:56:52 +0000 2018,0.6369,0.245,0.755,0.0
+407,Fox News,More than 500 fall ill after visiting Tennessee zipline attraction https://t.co/1fvtO6JBXc,Sun Jul 15 20:45:09 +0000 2018,0.0516,0.203,0.608,0.189
+408,Fox News,Terror Expert Compares Reaction of Trump's Russia Efforts to Obama's: ‘It's Glaring Hypocrisy’    https://t.co/NfgXTVU2Rx,Sun Jul 15 20:30:20 +0000 2018,-0.5267,0.0,0.793,0.207
+409,Fox News,Former Rep. Joe Walsh explains how 'Who Is America?' star Sacha Baron Cohen duped him https://t.co/FcdQRssf05,Sun Jul 15 20:22:30 +0000 2018,-0.4215,0.0,0.843,0.157
+410,Fox News,"Hugo Gurdon: ""For this summit not to be a failure, @POTUS has to confront President Putin and has to be seen and ac… https://t.co/SC1XuHrWvl",Sun Jul 15 20:13:40 +0000 2018,0.2505,0.106,0.827,0.067
+411,Fox News,Fox News Poll: Trump not tough enough on Russia https://t.co/LFwAGbZq76 https://t.co/bGY8UgP3B3,Sun Jul 15 20:07:11 +0000 2018,0.0951,0.12,0.88,0.0
+412,Fox News,"Five key topics that Trump, Putin are expected to discuss in major Helsinki summit https://t.co/wrXrM6lXaA",Sun Jul 15 20:03:55 +0000 2018,0.0,0.0,1.0,0.0
+413,Fox News,.@SenSchumer issued a statement on Sunday urging President @realDonaldTrump to press Russian President Vladimir Put… https://t.co/fcunN4nk79,Sun Jul 15 19:49:44 +0000 2018,0.0,0.0,1.0,0.0
+414,Fox News,".@SenWarren: ""We'll organize the fight for working people across America."" https://t.co/qUk9qWB2gt",Sun Jul 15 19:45:00 +0000 2018,-0.3818,0.0,0.794,0.206
+415,Fox News,"Daniel Hoffman: ""What scares Putin the most is democracy...Freedom of the press, of religion, liberty, all of the t… https://t.co/movfAIjdNZ",Sun Jul 15 19:40:53 +0000 2018,0.25,0.143,0.756,0.101
+416,Fox News,"Massachusetts Police Officer Michael Chesna killed after attacked with rock, shot with own gun, officials say… https://t.co/OjQeQZcXXf",Sun Jul 15 19:36:57 +0000 2018,-0.872,0.0,0.586,0.414
+417,Fox News,"BREAKING: 3 Kansas City, Missouri, cops shot; gunman killed in standoff with police, officials say https://t.co/jtejMG4YT2",Sun Jul 15 19:29:46 +0000 2018,-0.6705,0.0,0.757,0.243
+418,Fox News,".@gen_jackkeane on Trump, Putin summit: ""Since 2014, [Putin has] been internationally isolated because he annexed C… https://t.co/zVEC3IByLJ",Sun Jul 15 19:28:57 +0000 2018,-0.3182,0.0,0.874,0.126
+419,Fox News,".@RepPeteKing: ""[@POTUS] should go on offense. He should say that no matter what Putin says, whether he denies it o… https://t.co/Pfj9E199AY",Sun Jul 15 19:23:43 +0000 2018,-0.7096,0.044,0.677,0.279
+420,CNN,RT @CNNPolitics: CNN’s Jake Tapper explains that State of the Union invited and confirmed national security adviser John Bolton to come on…,Sun Jul 15 14:02:56 +0000 2018,0.34,0.103,0.897,0.0
+421,CNN,"A rare flood of desert rain has transformed a lake in Australia from an arid, salty basin to a spectacular, watery… https://t.co/XIwMrwYDRI",Sun Jul 15 14:01:07 +0000 2018,0.0,0.0,1.0,0.0
+422,CNN,It's not always easy going green. Starbucks and Nestlé customers embraced the brands' moves to environmentally-frie… https://t.co/esLhD2m3O2,Sun Jul 15 13:31:00 +0000 2018,-0.3412,0.0,0.869,0.131
+423,CNN,"Rep. Adam Schiff explains why he's calling for the Trump-Putin summit to be canceled: ""We don't need to ask Putin w… https://t.co/BJMF86EU5T",Sun Jul 15 13:08:47 +0000 2018,0.0,0.0,1.0,0.0
+424,CNN,A Florida man had a heart attack while laying sod in his front yard to avoid getting a fine from his homeowner's as… https://t.co/OViiP8HzGJ,Sun Jul 15 13:01:08 +0000 2018,-0.5423,0.072,0.717,0.211
+425,CNN,Starbucks is going strawless. The coffee company announced Monday that it will phase out plastic straws from all of… https://t.co/4PnjN5f34l,Sun Jul 15 12:31:00 +0000 2018,0.0,0.0,1.0,0.0
+426,CNN,"A flight from Hong Kong to the Chinese mainland suddenly lost air pressure and dropped nearly 20,000 feet because t… https://t.co/BBsCczJSWb",Sun Jul 15 12:01:05 +0000 2018,-0.5423,0.0,0.8,0.2
+427,CNN,A rescue organization in the Turks and Caicos Islands finds good homes for stray potcake puppies -- and allows tour… https://t.co/GAOMaokzQl,Sun Jul 15 11:31:00 +0000 2018,0.7351,0.256,0.744,0.0
+428,CNN,"Hawaii has become the first state in the US to ban the sale of sunscreens that can harm coral reefs. Banana Boat, C… https://t.co/eAWmWt80j4",Sun Jul 15 11:01:47 +0000 2018,-0.7964,0.0,0.756,0.244
+429,CNN,There is now only one Blockbuster store left in the United States https://t.co/eVtGl3oeEq https://t.co/3txr2d7UAq,Sun Jul 15 10:31:00 +0000 2018,0.7717,0.358,0.642,0.0
+430,CNN,A French bulldog named Darcy was given an oxygen mask on a JetBlue flight after showing signs of distress. Darcy's… https://t.co/l2X1AgX158,Sun Jul 15 10:01:42 +0000 2018,-0.5267,0.0,0.841,0.159
+431,CNN,"Build-A-Bear was forced to turn customers away after an onslaught of people came to take advantage of its ""pay your… https://t.co/mR7je3dMgD",Sun Jul 15 09:31:00 +0000 2018,-0.34,0.082,0.738,0.18
+432,CNN,"Democrats are releasing way more polls than Republicans. Here's what that could mean. https://t.co/50z1LGik2t | 
+An… https://t.co/n5VcrRBw06",Sun Jul 15 09:00:05 +0000 2018,0.0,0.0,1.0,0.0
+433,CNN,The first underwater museum in the United States has opened off the coast of northwest Florida… https://t.co/SKiVeXW9mo,Sun Jul 15 08:31:00 +0000 2018,0.4215,0.149,0.851,0.0
+434,CNN,Twitter suspends 2 accounts linked to Russian intelligence after hacking indictment https://t.co/wHdsGD7mig https://t.co/QEJtP2DHiR,Sun Jul 15 08:00:05 +0000 2018,0.4767,0.22,0.78,0.0
+435,CNN,"For the first time, scientists have been able to trace the origins of a ghostly subatomic particle that traveled 3.… https://t.co/PmnXztGKBg",Sun Jul 15 07:31:00 +0000 2018,0.0,0.0,1.0,0.0
+436,CNN,Georgia woman arrested after cop appears to use coin flip app https://t.co/4yXyMQeLuK https://t.co/Q6w6m88yJx,Sun Jul 15 07:00:08 +0000 2018,-0.4767,0.0,0.795,0.205
+437,CNN,"Stitch Fix is tapping into the children's apparel market, launching subscription boxes with sizes 2T to 14. Founder… https://t.co/ByTYP3Cl3n",Sun Jul 15 06:31:00 +0000 2018,0.0,0.0,1.0,0.0
+438,CNN,"Democratic Rep. Joyce Beatty dances to Drake's ""In My Feelings"" to promote millennial voting https://t.co/LkF2rbZ8Lm https://t.co/ggWr7B6m7j",Sun Jul 15 06:00:07 +0000 2018,0.3818,0.148,0.852,0.0
+439,CNN,"Meet Care-E, the automated airport assistant that scans a boarding pass, carries luggage and guides passengers to t… https://t.co/E9ZgNpC9nc",Sun Jul 15 05:31:00 +0000 2018,0.0,0.0,1.0,0.0
+440,BBC News (World),"RT @BBCNews: Trump tees off at Turnberry as thousands protest
+
+https://t.co/CY1qQ6OjVO #TrumpVisitUK https://t.co/cJdCUAUMkk",Sat Jul 14 13:12:58 +0000 2018,-0.25,0.0,0.857,0.143
+441,BBC News (World),"RT @Tara_Mckelvey: I’m traveling with Trump, and I saw only a few protestors in London. That night in Glasgow, a colleague showed me a stun…",Sat Jul 14 13:09:22 +0000 2018,0.0,0.0,1.0,0.0
+442,BBC News (World),France restricts access to Mont Blanc amid safety fears https://t.co/ibEDwnZtEr,Sat Jul 14 13:01:18 +0000 2018,-0.3182,0.188,0.47,0.342
+443,BBC News (World),Saudi Arabia woman 'arrested for hugging' singer Majid al-Mohandis https://t.co/kR0pz540sU,Sat Jul 14 12:05:28 +0000 2018,-0.0772,0.201,0.576,0.223
+444,BBC News (World),"RT @bbctennis: Meghan Markle has arrived!
+
+The crowd shouted her name as she made her way to Centre Court. She waved 👋
+
+💻📱 https://t.co/Xg5…",Sat Jul 14 11:57:00 +0000 2018,0.0,0.0,1.0,0.0
+445,BBC News (World),Dozens hurt as Ryanair flight loses cabin pressure https://t.co/nsjMY0DcN0,Sat Jul 14 11:23:33 +0000 2018,-0.7845,0.0,0.432,0.568
+446,BBC News (World),In pictures: France marks Bastille Day with spectacular parade https://t.co/l93wJ80L1A,Sat Jul 14 10:54:33 +0000 2018,0.0,0.0,1.0,0.0
+447,BBC News (World),"The smartphone app helping African pupils see 👀
+
+https://t.co/E5sNQV8gfN https://t.co/1GL4dpBUxf",Sat Jul 14 09:59:02 +0000 2018,0.296,0.216,0.784,0.0
+448,BBC News (World),"Bonne #FêteNationale!
+
+France marks #BastilleDay with parades in Paris 🇫🇷 #14juillet https://t.co/teJKH5dXo8",Sat Jul 14 09:30:56 +0000 2018,0.0,0.0,1.0,0.0
+449,BBC News (World),Huge iceberg threatens Greenland village https://t.co/xPTPAaPaaX,Sat Jul 14 08:47:05 +0000 2018,-0.0772,0.258,0.449,0.292
+450,BBC News (World),"☝️ John Volanthen from Bristol, UK.
+
+👇 More about his heroic efforts:  https://t.co/eg24NmtbuX",Sat Jul 14 08:41:57 +0000 2018,0.5945,0.26,0.74,0.0
+451,BBC News (World),"Nancy Sinatra Senior, Frank's first wife, dies aged 101 https://t.co/u7ZDrCg8sq",Sat Jul 14 08:11:04 +0000 2018,0.0,0.0,1.0,0.0
+452,BBC News (World),"Saved by their smell 👃
+
+How #ThaiCaveRescue divers sniffed out the Wild Boars  
+
+https://t.co/rYEl75IIIK https://t.co/9XTbT6tOPp",Sat Jul 14 07:54:14 +0000 2018,0.4215,0.177,0.823,0.0
+453,BBC News (World),Eritrea's Isaias Afwerki in historic Ethiopia visit https://t.co/hCi88rbq12,Sat Jul 14 06:22:13 +0000 2018,0.0,0.0,1.0,0.0
+454,BBC News (World),White House: Trump-Putin summit 'is on' after hacking indictment https://t.co/wkWon5MVI2,Sat Jul 14 02:28:15 +0000 2018,0.0,0.0,1.0,0.0
+455,BBC News (World),Is Russia the real winner of World Cup 2018? https://t.co/TKWhqeUuw3,Sat Jul 14 01:23:00 +0000 2018,0.5859,0.297,0.703,0.0
+456,BBC News (World),Croatia's Luka Modric: Chequered past haunts World Cup star https://t.co/HTOQlGhDGx,Sat Jul 14 00:57:56 +0000 2018,-0.25,0.0,0.818,0.182
+457,BBC News (World),Trump's UK visit: Eight key moments https://t.co/TrVZKHHcsr,Sat Jul 14 00:47:26 +0000 2018,0.0,0.0,1.0,0.0
+458,BBC News (World),"Good week, bad week: The people in the news https://t.co/HWje3APiS9",Sat Jul 14 00:24:40 +0000 2018,-0.1531,0.201,0.556,0.243
+459,BBC News (World),The full story of Thailand’s extraordinary cave rescue https://t.co/ZW6wsluFEm,Fri Jul 13 23:09:48 +0000 2018,0.5106,0.292,0.708,0.0
+460,CBS News,"Trump administration lays out plan to reunite 2,500 immigrant children with their families https://t.co/nem8BklQhu https://t.co/YxHlrAUWLi",Sun Jul 15 13:03:03 +0000 2018,0.0,0.0,1.0,0.0
+461,CBS News,"3-year-old boy sings national anthem at minor league baseball game, hits it out of the park https://t.co/EKlJz4BN7c https://t.co/1V7NBEEr0B",Sun Jul 15 12:48:05 +0000 2018,0.0,0.0,1.0,0.0
+462,CBS News,"More than 130,000 injured vets due big tax refunds because of computer glitch https://t.co/MQ9N5u2uQL https://t.co/BJa1e9mHcv",Sun Jul 15 12:33:03 +0000 2018,-0.4522,0.0,0.825,0.175
+463,CBS News,Some of Queen Elizabeth's most memorable encounters with U.S. presidents https://t.co/gSFuxRdVjv https://t.co/ccs2zsRDuU,Sun Jul 15 12:18:03 +0000 2018,0.0,0.0,1.0,0.0
+464,CBS News,"Woman charged with attempted murder in beating of man, 92, with brick https://t.co/6Ezk3gchuG https://t.co/ex08hj9Ahy",Sun Jul 15 12:03:03 +0000 2018,-0.8591,0.0,0.537,0.463
+465,CBS News,McDonald's salad suspected in parasite outbreak https://t.co/3SSKikoOBQ https://t.co/GGbOzGcWQG,Sun Jul 15 11:48:04 +0000 2018,-0.2263,0.0,0.787,0.213
+466,CBS News,"Beto O’Rourke raises $10.4 million in 3 months, beating Ted Cruz https://t.co/4XHgICMEzb https://t.co/cfPgPyc8BS",Sun Jul 15 11:33:04 +0000 2018,-0.4588,0.0,0.786,0.214
+467,CBS News,"U.K. Prime Minister Theresa May: Trump told me to ""sue the EU"" over Brexit https://t.co/rsN3nTCDzK https://t.co/2Ydnld0ZZh",Sun Jul 15 11:26:05 +0000 2018,0.0,0.0,1.0,0.0
+468,CBS News,"LeSean McCoy's ex-girlfriend suspected NFL star was involved in her attack, 911 call reveals https://t.co/Yp58iVIkqW https://t.co/nTZ6V9yuTI",Sun Jul 15 11:18:03 +0000 2018,-0.6124,0.0,0.737,0.263
+469,CBS News,Police officers and K9s join boy with tumor to pray before his brain surgery https://t.co/ncW8WrmNra https://t.co/J01O3QnLtP,Sun Jul 15 11:03:04 +0000 2018,0.2263,0.224,0.647,0.129
+470,CBS News,"Intel chief Dan Coats says of cyberattacks, ""We are at a critical point"" https://t.co/fcYUlyJfhM https://t.co/9Utzhg8rjA",Sun Jul 15 10:48:03 +0000 2018,-0.3182,0.0,0.85,0.15
+471,CBS News,"Russians relied on bitcoin to finance election hacking, prosecutors say https://t.co/SMOlMIZ1oO https://t.co/9UBdxnWN0W",Sun Jul 15 10:33:04 +0000 2018,0.0,0.0,1.0,0.0
+472,CBS News,Police search for paraglider who flew over resort where Trump is staying https://t.co/uwQIjv1WaY https://t.co/jrhDdWZGP7,Sun Jul 15 10:18:03 +0000 2018,0.0,0.0,1.0,0.0
+473,CBS News,"RT @FaceTheNation: Airing TODAY on @FaceTheNation: highlights from @jeffglor's sit down with @realDonaldTrump from Scotland. 
+
+Join @margbr…",Sun Jul 15 10:16:04 +0000 2018,0.296,0.121,0.879,0.0
+474,CBS News,"RT @CBSEveningNews: WATCH: President Trump tells @jeffglor that he is going into the Helsinki summit with ""low expectations"" and that he wi…",Sun Jul 15 10:14:05 +0000 2018,-0.2732,0.0,0.909,0.091
+475,CBS News,"WATCH: President Trump tells @CBSEveningNews' @jeffglor that he is going into the Helsinki summit with ""low expecta… https://t.co/vBHlaeqDzh",Sun Jul 15 10:09:09 +0000 2018,-0.2732,0.0,0.89,0.11
+476,CBS News,"Child who may be American, separated from mom at border, has been in federal custody since 2015… https://t.co/L0BE1Pjt24",Sun Jul 15 10:03:03 +0000 2018,0.0,0.0,1.0,0.0
+477,CBS News,Martha's Vineyard bus driver fired after telling man he wasn't picked up because he's black https://t.co/ggoFjExpfU https://t.co/Xv2iyyLCpG,Sun Jul 15 09:48:03 +0000 2018,-0.5574,0.0,0.816,0.184
+478,CBS News,"Scarlett Johansson drops out of ""Rub &amp; Tug"" amid backlash https://t.co/HzB4zlnOr6 https://t.co/nh5w0l5Ja2",Sun Jul 15 09:33:03 +0000 2018,0.0,0.0,1.0,0.0
+479,CBS News,British police confirm source of Novichok poisoning https://t.co/d9HXvozY3u https://t.co/Tj6BSaLs9p,Sun Jul 15 09:18:04 +0000 2018,-0.5859,0.0,0.678,0.322
+480,The New York Times,Halftime. France took a 2-1 lead on Croatia after a handball in the box gave Antoine Griezmann a penalty kick. https://t.co/0CfXdO0GqR,Sun Jul 15 15:52:19 +0000 2018,-0.4588,0.0,0.85,0.15
+481,The New York Times,France's victory in the World Cup semifinals handed its president an unexpected chance to meet the Russian presiden… https://t.co/dS8YSXEGTe,Sun Jul 15 15:45:04 +0000 2018,0.25,0.1,0.9,0.0
+482,The New York Times,Novak Djokovic is back on top of men’s tennis: He beat Kevin Anderson at Wimbledon for his 13th Grand Slam title https://t.co/folmWovObT,Sun Jul 15 15:35:01 +0000 2018,0.296,0.182,0.72,0.098
+483,The New York Times,Croatia scores and makes it even! https://t.co/8InlMqSas6,Sun Jul 15 15:30:18 +0000 2018,0.0,0.0,1.0,0.0
+484,The New York Times,"And then there was one. Soon, Oregon will have the last Blockbuster video store in the United States. https://t.co/pOibrpfeGs",Sun Jul 15 15:30:15 +0000 2018,0.7717,0.283,0.717,0.0
+485,The New York Times,France takes the lead! https://t.co/ARt5lS7H3K,Sun Jul 15 15:20:10 +0000 2018,0.0,0.0,1.0,0.0
+486,The New York Times,France and Croatia are underway in the 2018 World Cup final https://t.co/2TU9KgDHER,Sun Jul 15 15:16:15 +0000 2018,0.0,0.0,1.0,0.0
+487,The New York Times,How much wood could a woodchuck chuck if a woodchuck could get into Paul Ryan’s SUV? https://t.co/NGoTxUBibQ,Sun Jul 15 15:15:10 +0000 2018,0.0,0.0,1.0,0.0
+488,The New York Times,Elizabeth Warren. Joe Biden. Kamala Harris. Cory Booker. Bernie Sanders. It's beginning. https://t.co/ryxlObNHia,Sun Jul 15 15:00:08 +0000 2018,0.0,0.0,1.0,0.0
+489,The New York Times,"Watch for lots of spitting in the France-Croatia final. It's probably ""carb rinsing,"" a popular practice among Worl… https://t.co/NjxxQjDMqq",Sun Jul 15 14:45:07 +0000 2018,0.4215,0.141,0.859,0.0
+490,The New York Times,France is trying to win its second World Cup. Croatia is playing for its first championship. https://t.co/xoWF0pGcvb,Sun Jul 15 14:30:07 +0000 2018,0.8176,0.378,0.622,0.0
+491,The New York Times,"The California Democratic Party snubbed Senator Dianne Feinstein and endorsed her rival, Kevin de León, in November… https://t.co/FqGwRXocUM",Sun Jul 15 14:15:06 +0000 2018,0.1779,0.207,0.661,0.132
+492,The New York Times,Ireland is expected to become the first country to formally pledge to divest from fossil fuels https://t.co/7Et9HEwdqn,Sun Jul 15 14:03:52 +0000 2018,0.0,0.0,1.0,0.0
+493,The New York Times,"Our NYT movie review: All the feels, hurts and laughs of ""Eighth Grade"" https://t.co/MEvI3z6Weo",Sun Jul 15 13:46:08 +0000 2018,0.0258,0.175,0.656,0.169
+494,The New York Times,Those who saw Kylian Mbappé as a child knew he was special. But they couldn't know quite how far his talent would t… https://t.co/prJ1gEkz5c,Sun Jul 15 13:30:02 +0000 2018,0.6705,0.208,0.792,0.0
+495,The New York Times,Trump Says He ‘Hadn’t Thought’ About Asking Putin to Extradite 12 Indicted Russians https://t.co/mOvxjO6QOo,Sun Jul 15 13:28:15 +0000 2018,0.0,0.0,1.0,0.0
+496,The New York Times,Today is National Ice Cream Day. And nothing compares to the homemade kind. https://t.co/TgPaTj7zcS https://t.co/q7DLl8BVPM,Sun Jul 15 13:00:18 +0000 2018,0.5267,0.195,0.805,0.0
+497,The New York Times,"We chart America’s complicated history of infant feeding, starting with the spread of formula https://t.co/H26wrB13de",Sun Jul 15 12:30:09 +0000 2018,0.0,0.0,1.0,0.0
+498,The New York Times,"Warren is Preparing for 2020. So Are Biden, Booker, Harris and Sanders. https://t.co/SVSpIZMQRQ",Sun Jul 15 12:06:06 +0000 2018,0.0,0.0,1.0,0.0
+499,The New York Times,After years of being told to put on a suit and recite their résumé — and smile! — women running for office are thro… https://t.co/R4JJVQQaiZ,Sun Jul 15 12:00:14 +0000 2018,0.4199,0.117,0.883,0.0
